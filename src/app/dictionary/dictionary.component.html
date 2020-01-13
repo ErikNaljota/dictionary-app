@@ -1,12 +1,11 @@
 <div id="dictionary">
-  <table>
-    <tr>
-      <th>Word</th>
-      <th>Translation</th>
-    </tr>
-    <tr *ngFor="let word of map | keyvalue">
-      <td>{{word.key}}</td>
-      <td>{{word.value}}</td>
-    </tr>
-  </table>
+  <div class="header">
+    <div class="header-name" style="border-right:1px solid black"><p>Word ({{selectedWord | titlecase}})</p></div>
+    <div class="header-name"><p>Translation</p></div>
+  </div>
+
+  <div class="table-row" *ngFor="let word of dictionary">
+    <div class="table-row-column"style="border-right:1px solid black"><p>{{word.get(selectedWord)}}</p></div>
+    <div class="table-row-column"><p>{{word.get(selectedWord)}}</p></div>
+  </div>
 </div>

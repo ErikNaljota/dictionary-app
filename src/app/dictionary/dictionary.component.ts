@@ -7,13 +7,19 @@ import {Word} from './word';
   styleUrls: ['./dictionary.component.scss']
 })
 export class DictionaryComponent implements OnInit {
-  private words: Word[] = [];
-  private map: Map<string, string>;
+  private selectedWord: string = 'english';
+
+  private dictionary: Map<string, string>[] = [];
+  readonly map: Map<string, string>;
 
   constructor() {
+    this.selectedWord = 'dutch';
     const word = new Word();
     this.map = word.generateMap();
-    console.log('map', this.map);
+    this.dictionary.push(this.map);
+    this.dictionary.push(this.map);
+    this.dictionary.push(this.map);
+    this.dictionary.push(this.map);
   }
 
   ngOnInit() {
