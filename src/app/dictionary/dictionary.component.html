@@ -1,0 +1,12 @@
+<div id="dictionary">
+  <table>
+    <tr>
+      <th>Word</th>
+      <th>Translation</th>
+    </tr>
+    <tr *ngFor="let word of map | keyvalue">
+      <td>{{word.key}}</td>
+      <td>{{word.value}}</td>
+    </tr>
+  </table>
+</div>

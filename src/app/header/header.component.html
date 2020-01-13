@@ -1,0 +1,13 @@
+<div class="header disable-select">
+  <div class="navigation">
+    <div class="name">
+      <h4>Lion dictionary</h4>
+    </div>
+    <div class="menu-items">
+      <div class="button" *ngFor="let item of menuItems; let last = last">
+        <p class="item" routerLink="/{{item[1]}}">{{item[0] | titlecase}}</p>
+        <p *ngIf="!last">|</p>
+      </div>
+    </div>
+  </div>
+</div>
