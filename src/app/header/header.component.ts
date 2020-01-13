@@ -6,7 +6,7 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent implements OnInit {
-  private menuItems: string[][] = [['home', ''], ['settings', 'settings']];
+  private menuItems: string[][] = [['home', ''], ['editor', 'editor'], ['settings', 'settings']];
 
   constructor() {
   }

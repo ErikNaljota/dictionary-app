@@ -1,5 +1,6 @@
 import {Component, OnInit} from '@angular/core';
-import {Word} from './word';
+import {DictionaryService} from './dictionary.service';
+import {SettingsService} from '../settings/settings.service';
 
 @Component({
   selector: 'app-dictionary',
@@ -7,19 +8,14 @@ import {Word} from './word';
   styleUrls: ['./dictionary.component.scss']
 })
 export class DictionaryComponent implements OnInit {
-  private selectedWord: string = 'english';
-
+  private sourceLanguage: string = 'english';
+  private translationLanguage: string = 'dutch';
   private dictionary: Map<string, string>[] = [];
-  readonly map: Map<string, string>;
 
-  constructor() {
-    this.selectedWord = 'dutch';
-    const word = new Word();
-    this.map = word.generateMap();
-    this.dictionary.push(this.map);
-    this.dictionary.push(this.map);
-    this.dictionary.push(this.map);
-    this.dictionary.push(this.map);
+  constructor(private dictionaryService: DictionaryService, private settingsService: SettingsService) {
+    this.dictionary = dictionaryService.getDictionary();
+    this.sourceLanguage = settingsService.sourceLanguage;
+    this.translationLanguage = settingsService.translationLanguage;
   }
 
   ngOnInit() {

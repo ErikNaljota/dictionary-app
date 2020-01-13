@@ -4,21 +4,21 @@ import {Injectable} from '@angular/core';
   providedIn: 'root'
 })
 export class DictionaryService {
-  public dictionary: Map<string, string>[] = [];
+  private dictionary: Map<string, string>[] = [];
 
   constructor() {
     this.generateDictionary();
   }
 
   private generateDictionary() {
-    
+
   }
 
   public refreshDictionary() {
     this.generateDictionary();
   }
 
-  public getDictionary(): Map<string, string>[]{
+  public getDictionary(): Map<string, string>[] {
     return this.dictionary;
   }
 }

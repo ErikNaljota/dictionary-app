@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { BodyComponent } from './body/body.component';
 import { SettingsComponent } from './settings/settings.component';
 import { DictionaryComponent } from './dictionary/dictionary.component';
+import { EditorComponent } from './editor/editor.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { DictionaryComponent } from './dictionary/dictionary.component';
     HeaderComponent,
     BodyComponent,
     SettingsComponent,
-    DictionaryComponent
+    DictionaryComponent,
+    EditorComponent
   ],
   imports: [
     BrowserModule,

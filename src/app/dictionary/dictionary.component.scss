@@ -1,4 +1,7 @@
 #dictionary {
+  .header-name:first-child, .table-row-column:first-child{
+    border-right:1px solid #b3b3b3;
+  }
 
   .header {
     background-color: lightgrey;
