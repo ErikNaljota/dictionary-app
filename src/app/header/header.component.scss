@@ -1,0 +1,38 @@
+.header {
+  background-color: white;
+  position: absolute;
+  height: 50px;
+  width: 100%;
+  color: black;
+  box-shadow: 0 2px 2px #D3D3D3;
+  margin-top: 0;
+  vertical-align: middle;
+
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+
+    .name {
+      margin-left: 10px;
+      font-size: 20pt;
+    }
+
+    .menu-items {
+      margin-right: 10px;
+      font-size: 15pt;
+      display: flex;
+
+      p {
+        margin-left: 10px;
+        display: inline
+      }
+
+      .button {
+        .item:hover{
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
