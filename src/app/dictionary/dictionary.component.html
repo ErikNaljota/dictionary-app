@@ -1,11 +1,11 @@
 <div id="dictionary">
   <div class="header">
-    <div class="header-name"><p>Word ({{sourceLanguage | titlecase}})</p></div>
-    <div class="header-name"><p>Translation</p></div>
+    <div class="header-name"><p>{{leftColumn | titlecase}}</p></div>
+    <div class="header-name"><p>{{rightColumn | titlecase}}</p></div>
   </div>
 
-  <div class="table-row" *ngFor="let word of words">
-    <div class="table-row-column"><p>{{word['english']}}</p></div>
-    <div class="table-row-column"><p>{{word['dutch']}}</p></div>
+  <div class="table-row" *ngFor="let word of words | slice: 0: 100;">
+    <div class="table-row-column"><p>{{word[leftColumn]}}</p></div>
+    <div class="table-row-column"><p>{{word[rightColumn]}}</p></div>
   </div>
 </div>
