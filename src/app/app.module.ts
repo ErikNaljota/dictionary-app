@@ -10,6 +10,7 @@ import {SettingsComponent} from './settings/settings.component';
 import {DictionaryComponent} from './dictionary/dictionary.component';
 import {EditorComponent} from './editor/editor.component';
 import { NavigationComponent } from './navigation/navigation.component';
+import {FormsModule} from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -21,11 +22,12 @@ import { NavigationComponent } from './navigation/navigation.component';
     EditorComponent,
     NavigationComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        HttpClientModule,
+        FormsModule
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })

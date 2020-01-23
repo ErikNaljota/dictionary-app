@@ -1,18 +1,24 @@
 import {Component, OnInit} from '@angular/core';
+import {NavigationService} from './navigation.service';
 
 @Component({
-  selector: 'app-navigation',
-  templateUrl: './navigation.component.html',
-  styleUrls: ['./navigation.component.scss']
+    selector: 'app-navigation',
+    templateUrl: './navigation.component.html',
+    styleUrls: ['./navigation.component.scss']
 })
 export class NavigationComponent implements OnInit {
-  public checkVocabulary: boolean = true;
-  public leftColumn: string;
-  public rightColumn: string;
+    public checkVocabulary = false;
+    public leftColumn: string;
+    public rightColumn: string;
 
-  constructor() {
-  }
+    constructor(private navigationService: NavigationService) {
+    }
 
-  ngOnInit() {
-  }
+    ngOnInit() {
+    }
+
+    vocabularyCheck() {
+        this.checkVocabulary = !this.checkVocabulary;
+        this.navigationService.emitVocabularyCheck(this.checkVocabulary);
+    }
 }
