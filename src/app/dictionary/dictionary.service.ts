@@ -13,7 +13,7 @@ export class DictionaryService {
   }
 
   private generateDictionary() {
-    this.http.get<Dictionary[]>('assets/words.json').subscribe(response => {this.dictionary = response; console.log('AAA', response);});
+    this.http.get<Dictionary[]>('assets/words.json').subscribe(response => this.dictionary = response);
   }
 
   public refreshDictionary() {

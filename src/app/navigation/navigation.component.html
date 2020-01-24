@@ -9,21 +9,13 @@
     <hr>
 
     <label>Left column</label>
-    <select (change)="leftColumn = $event.target.value">
-      <option>Dutch</option>
-      <option selected>English</option>
-      <option>Russian</option>
-      <option>Italian</option>
-      <option>French</option>
+    <select (change)="leftColumn = $event.target.value; vocabularyService.leftColumn.next($event.target.value)">
+      <option *ngFor="let language of languagesList">{{language | titlecase}}</option>
     </select>
 
     <label>Right column</label>
-    <select (change)="rightColumn = $event.target.value">
-      <option selected>Dutch</option>
-      <option>English</option>
-      <option>Russian</option>
-      <option>Italian</option>
-      <option>French</option>
+    <select (change)="rightColumn = $event.target.value; vocabularyService.rightColumn.next($event.target.value)">
+      <option *ngFor="let language of languagesList">{{language | titlecase}}</option>
     </select>
 
     <hr>
