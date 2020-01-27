@@ -10,7 +10,7 @@ import {SettingsComponent} from './settings/settings.component';
 import {DictionaryComponent} from './dictionary/dictionary.component';
 import {EditorComponent} from './editor/editor.component';
 import { NavigationComponent } from './navigation/navigation.component';
-import {FormsModule} from '@angular/forms';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -26,7 +26,8 @@ import {FormsModule} from '@angular/forms';
         BrowserModule,
         AppRoutingModule,
         HttpClientModule,
-        FormsModule
+        FormsModule,
+        ReactiveFormsModule
     ],
   providers: [],
   bootstrap: [AppComponent]

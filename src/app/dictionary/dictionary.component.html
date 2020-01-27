@@ -1,16 +1,20 @@
 <div id="dictionary">
-  <div class="header">
-    <div class="header-name"><p>{{leftColumn | titlecase}}</p></div>
-    <div class="header-name"><p>{{rightColumn | titlecase}}</p></div>
-  </div>
-
-  <div class="table-row" *ngFor="let word of words | slice: 0: 100;">
-    <div class="table-row-column"><p>{{word[leftColumn]}}</p></div>
-    <div class="table-row-column">
-        <p *ngIf="!checkVocabulary">{{word[rightColumn]}}</p>
-        <input type="text" [name]="'wordInputRow' + index" #input
-               *ngIf="checkVocabulary"
-               [ngClass]="(true) ? 'correct' : 'incorrect'"/>
+    <div class="header">
+        <div class="header-name"><p>{{leftColumn | titlecase}}</p></div>
+        <div class="header-name"><p>{{rightColumn | titlecase}}</p></div>
     </div>
-  </div>
+
+    <form (submit)="submit()">
+        <div class="table-row" *ngFor="let word of words | slice: 0: 3">
+            <div class="table-row-column"><p>{{word[leftColumn]}}</p></div>
+            <div class="table-row-column" #referenceTest1>
+                <p *ngIf="!checkVocabulary">{{word[rightColumn]}}</p>
+                <input type="text"
+                       #referenceTest
+                       *ngIf="checkVocabulary"
+                       [ngClass]="(submitted && !(word[rightColumn] === referenceTest.value)) ? 'incorrect' : ''"/>
+            </div>
+        </div>
+        <input type="submit">
+    </form>
 </div>

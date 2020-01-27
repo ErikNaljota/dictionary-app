@@ -59,4 +59,9 @@
         width: 100%;
         color: lightgrey;
     }
+
+    input[type=submit] {
+        float: right;
+        margin-top: 20px;
+    }
 }

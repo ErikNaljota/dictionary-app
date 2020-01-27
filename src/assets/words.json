@@ -2,4486 +2,6280 @@
   {
     "dutch": "iedereen",
     "english": "everyone",
-    "russian": "все"
+    "russian": "все",
+    "italian": "tutti",
+    "french": "tout le monde"
   },
   {
     "dutch": "je",
     "english": "you",
-    "russian": "вы"
+    "russian": "ты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "misschien",
     "english": "perhaps",
-    "russian": "может быть"
+    "russian": "может быть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ben",
     "english": "am",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoort",
     "english": "hears",
-    "russian": "слышит"
+    "russian": "слышит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hij",
     "english": "he",
-    "russian": "он"
+    "russian": "он",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "de",
     "english": "the",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hier",
     "english": "here",
-    "russian": "здесь"
+    "russian": "здесь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geen",
     "english": "no",
-    "russian": "нет"
+    "russian": "нет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nu",
     "english": "now",
-    "russian": "сейчас"
+    "russian": "сейчас",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ze",
     "english": "they",
-    "russian": "они"
+    "russian": "они",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vlees",
     "english": "meat",
-    "russian": "мясо"
+    "russian": "мясо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "thee",
     "english": "tea",
-    "russian": "чай"
+    "russian": "чай",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jouw",
     "english": "your",
-    "russian": "ваш"
+    "russian": "ваш",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eend",
     "english": "duck",
-    "russian": "утка"
+    "russian": "утка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ons",
     "english": "us",
-    "russian": "нам"
+    "russian": "нам",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "een",
     "english": "a",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "draagt",
     "english": "wears",
-    "russian": "носит"
+    "russian": "носит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "is",
     "english": "is",
-    "russian": "является"
+    "russian": "является",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slaapt",
     "english": "sleeps",
-    "russian": "спит"
+    "russian": "спит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "drinkt",
     "english": "drinks",
-    "russian": "пьёт"
+    "russian": "пьёт",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "daar",
     "english": "there",
-    "russian": "там"
+    "russian": "там",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zijn",
     "english": "to be;are",
-    "russian": "его"
+    "russian": "его",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "water",
     "english": "water",
-    "russian": "вода"
+    "russian": "вода",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "soms",
     "english": "sometimes",
-    "russian": "иногда"
+    "russian": "иногда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mevrouw",
     "english": "miss",
-    "russian": "мисс"
+    "russian": "мисс",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eet",
     "english": "eat",
-    "russian": "есть"
+    "russian": "есть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "het",
     "english": "it",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ook",
     "english": "also",
-    "russian": "также"
+    "russian": "также",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "spelen",
     "english": "play",
-    "russian": "играть"
+    "russian": "играть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hun",
     "english": "their",
-    "russian": "их"
+    "russian": "их",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lang",
     "english": "long",
-    "russian": "высокий"
+    "russian": "высокий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zij",
     "english": "she;they",
-    "russian": "они"
+    "russian": "они",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "klein",
     "english": "small",
-    "russian": "маленький"
+    "russian": "маленький",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "we",
     "english": "we",
-    "russian": "мы"
+    "russian": "мы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kind",
     "english": "child;kid",
-    "russian": "ребенок"
+    "russian": "ребенок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "en",
     "english": "and",
-    "russian": "и"
+    "russian": "и",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "man",
     "english": "man",
-    "russian": "человек"
+    "russian": "человек",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boterhammen",
     "english": "sandwiches",
-    "russian": "бутерброды"
+    "russian": "бутерброды",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "niet",
     "english": "not",
-    "russian": "не"
+    "russian": "не",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hebben",
     "english": "to have",
-    "russian": "имеют"
+    "russian": "имеют",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "de",
     "english": "the",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lange",
     "english": "long",
-    "russian": "длинный"
+    "russian": "длинный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jullie",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slapen",
     "english": "sleep",
-    "russian": "спать"
+    "russian": "спать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "van",
     "english": "from",
-    "russian": "от"
+    "russian": "от",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "haar",
     "english": "her",
-    "russian": "его"
+    "russian": "его",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mijn",
     "english": "my",
-    "russian": "мой"
+    "russian": "мой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kinderen",
     "english": "children",
-    "russian": "дети"
+    "russian": "дети",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zijn",
     "english": "are",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jou",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dat",
     "english": "that",
-    "russian": "тот"
+    "russian": "тот",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "paard",
     "english": "horse",
-    "russian": "лошадь"
+    "russian": "лошадь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "onze",
     "english": "our",
-    "russian": "наш"
+    "russian": "наш",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mij",
     "english": "me",
-    "russian": "я"
+    "russian": "я",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "heeft",
     "english": "has",
-    "russian": "имеет"
+    "russian": "имеет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jullie",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "je",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "avondeten",
     "english": "dinner",
-    "russian": "ужин"
+    "russian": "ужин",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vis",
     "english": "fish",
-    "russian": "рыба"
+    "russian": "рыба",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schapen",
     "english": "sheep",
-    "russian": "овца"
+    "russian": "овца",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bedankt",
     "english": "thanks",
-    "russian": "спасибо"
+    "russian": "спасибо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kip",
     "english": "chicken",
-    "russian": "курица"
+    "russian": "курица",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "staart",
     "english": "tail",
-    "russian": "хвост"
+    "russian": "хвост",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zien",
     "english": "see",
-    "russian": "увидеть"
+    "russian": "увидеть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ziet",
     "english": "sees",
-    "russian": "видит"
+    "russian": "видит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "appel",
     "english": "apple",
-    "russian": "яблоко"
+    "russian": "яблоко",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wij",
     "english": "we",
-    "russian": "мы"
+    "russian": "мы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hen",
     "english": "them",
-    "russian": "их"
+    "russian": "их",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zie",
     "english": "see",
-    "russian": "увидеть"
+    "russian": "увидеть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koken",
     "english": "cook",
-    "russian": "готовить"
+    "russian": "готовить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dieren",
     "english": "animals",
-    "russian": "животные"
+    "russian": "животные",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ze",
     "english": "she",
-    "russian": "они"
+    "russian": "они",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hun",
     "english": "their",
-    "russian": "их"
+    "russian": "их",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kook",
     "english": "cook;boil",
-    "russian": "готовить;кипятить"
+    "russian": "готовить;кипятить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ik",
     "english": "i",
-    "russian": "я"
+    "russian": "я",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maaltijd",
     "english": "meal",
-    "russian": "еда"
+    "russian": "еда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jij",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jullie",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hem",
     "english": "him",
-    "russian": "его"
+    "russian": "его",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "horen",
     "english": "hear",
-    "russian": "услышать"
+    "russian": "услышать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eten",
     "english": "eat",
-    "russian": "есть;кушать"
+    "russian": "есть;кушать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lezen",
     "english": "read",
-    "russian": "читать"
+    "russian": "читать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "snelle",
     "english": "fast",
-    "russian": "быстро"
+    "russian": "быстро",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "olifant",
     "english": "elephant",
-    "russian": "слон"
+    "russian": "слон",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mannen",
     "english": "men",
-    "russian": "люди"
+    "russian": "люди",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "konijn",
     "english": "rabbit;bunny",
-    "russian": "кролик;заяц"
+    "russian": "кролик;заяц",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "fruit",
     "english": "fruit",
-    "russian": "фрукт"
+    "russian": "фрукт",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vogels",
     "english": "birds",
-    "russian": "птицы"
+    "russian": "птицы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nee",
     "english": "no",
-    "russian": "нет"
+    "russian": "нет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nederlands",
     "english": "dutch",
-    "russian": "нидерландский;голландский"
+    "russian": "нидерландский;голландский",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schildpadden",
     "english": "turtles",
-    "russian": "черепахи"
+    "russian": "черепахи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "borden",
     "english": "plate",
-    "russian": "посуда;тарелка;доска"
+    "russian": "посуда;тарелка;доска",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "grote",
     "english": "big",
-    "russian": "большой"
+    "russian": "большой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goede",
     "english": "big",
-    "russian": "grote"
+    "russian": "grote",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kleine",
     "english": "small",
-    "russian": "маленький"
+    "russian": "маленький",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boeken",
     "english": "book;books",
-    "russian": "книга;книги"
+    "russian": "книга;книги",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boek",
     "english": "book",
-    "russian": "книга"
+    "russian": "книга",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kort",
     "english": "short",
-    "russian": "короткие"
+    "russian": "короткие",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoor",
     "english": "hear",
-    "russian": "услышать"
+    "russian": "услышать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwemmen",
     "english": "swimming",
-    "russian": "плавание"
+    "russian": "плавание",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meisje",
     "english": "girl",
-    "russian": "девочка"
+    "russian": "девочка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwem",
     "english": "swim",
-    "russian": "плавать"
+    "russian": "плавать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "komt",
     "english": "coming",
-    "russian": "идет"
+    "russian": "идет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kom",
     "english": "come",
-    "russian": "прийти"
+    "russian": "прийти",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jongen",
     "english": "boy",
-    "russian": "мальчик"
+    "russian": "мальчик",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slaap",
     "english": "sleep",
-    "russian": "спать"
+    "russian": "спать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "aardbeien",
     "english": "strawberries",
-    "russian": "клубника"
+    "russian": "клубника",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schildpad",
     "english": "turtle",
-    "russian": "черепаха"
+    "russian": "черепаха",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "loop",
     "english": "walk",
-    "russian": "ходить"
+    "russian": "ходить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "loopt",
     "english": "runs",
-    "russian": "бежать"
+    "russian": "бежать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ja",
     "english": "yes",
-    "russian": "да"
+    "russian": "да",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sorry",
     "english": "sorry",
-    "russian": "извини;извините"
+    "russian": "извини;извините",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lopen",
     "english": "to walk",
-    "russian": "ходить"
+    "russian": "ходить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "heb",
     "english": "have;have got;possesses;own",
-    "russian": "иметь;имеют"
+    "russian": "иметь;имеют",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "draag",
     "english": "wear",
-    "russian": "носит"
+    "russian": "носит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goed",
     "english": "good",
-    "russian": "хорошо"
+    "russian": "хорошо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kleren",
     "english": "clothes",
-    "russian": "одежда"
+    "russian": "одежда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dragen",
     "english": "to wear;wear",
-    "russian": "носит;носить"
+    "russian": "носит;носить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ondergoed",
     "english": "underwear",
-    "russian": "нижнее белье;нижнее бельё"
+    "russian": "нижнее белье;нижнее бельё",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hallo",
     "english": "hello",
-    "russian": "привет"
+    "russian": "привет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "leest",
     "english": "is reading",
-    "russian": "читает"
+    "russian": "читает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wel",
     "english": "well",
-    "russian": "хорошо"
+    "russian": "хорошо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "drinken",
     "english": "drink",
-    "russian": "пить"
+    "russian": "пить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wijn",
     "english": "wine",
-    "russian": "вино"
+    "russian": "вино",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bier",
     "english": "beer",
-    "russian": "пиво"
+    "russian": "пиво",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "spreekt",
     "english": "speaks",
-    "russian": "говорит"
+    "russian": "говорит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jongens",
     "english": "boys",
-    "russian": "мальчики"
+    "russian": "мальчики",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "engels",
     "english": "english",
-    "russian": "английский"
+    "russian": "английский",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lees",
     "english": "read",
-    "russian": "читать"
+    "russian": "читать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mensen",
     "english": "humans; people",
-    "russian": "люди"
+    "russian": "люди",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "muizen",
     "english": "mice",
-    "russian": "мышь"
+    "russian": "мышь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eten",
     "english": "food",
-    "russian": "еда"
+    "russian": "еда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "menu's",
     "english": "menus",
-    "russian": "меню"
+    "russian": "меню",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tomaten",
     "english": "tomatoes",
-    "russian": "помидоры"
+    "russian": "помидоры",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bananen",
     "english": "bananas",
-    "russian": "бананы"
+    "russian": "бананы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "katten",
     "english": "cats",
-    "russian": "коты;кошки"
+    "russian": "коты;кошки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vrouwen",
     "english": "women",
-    "russian": "женщины"
+    "russian": "женщины",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "beren",
     "english": "bears",
-    "russian": "медведи"
+    "russian": "медведи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kranten",
     "english": "newspapers",
-    "russian": "газеты"
+    "russian": "газеты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "menu",
     "english": "menu",
-    "russian": "меню"
+    "russian": "меню",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "spreek",
     "english": "speak",
-    "russian": "говорить"
+    "russian": "говорить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sap",
     "english": "juice",
-    "russian": "сок"
+    "russian": "сок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bent",
     "english": "are",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vrouw",
     "english": "woman",
-    "russian": "женщина"
+    "russian": "женщина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "krant",
     "english": "newspaper",
-    "russian": "газета"
+    "russian": "газета",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rijst",
     "english": "rice",
-    "russian": "рис"
+    "russian": "рис",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "drink",
     "english": "drink",
-    "russian": "пить"
+    "russian": "пить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mens",
     "english": "man/human",
-    "russian": "человек"
+    "russian": "человек",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "spin",
     "english": "spider",
-    "russian": "паук"
+    "russian": "паук",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "krab",
     "english": "crab",
-    "russian": "краб"
+    "russian": "краб",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "muis",
     "english": "mouse",
-    "russian": "мышь"
+    "russian": "мышь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoorn",
     "english": "horn",
-    "russian": "рог"
+    "russian": "рог",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dier",
     "english": "animal",
-    "russian": "животное"
+    "russian": "животное",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koe",
     "english": "cow",
-    "russian": "корова"
+    "russian": "корова",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "neushoorn",
     "english": "rhinoceros;rhino",
-    "russian": "носорог"
+    "russian": "носорог",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gans",
     "english": "goose",
-    "russian": "гусь"
+    "russian": "гусь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schaap",
     "english": "sheep",
-    "russian": "овца"
+    "russian": "овца",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tomaat",
     "english": "tomatoe",
-    "russian": "помидор"
+    "russian": "помидор",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ontbijt",
     "english": "breakfast",
-    "russian": "завтрак"
+    "russian": "завтрак",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koffie",
     "english": "coffie",
-    "russian": "кофе"
+    "russian": "кофе",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "pasta",
     "english": "pasta",
-    "russian": "паста"
+    "russian": "паста",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ei",
     "english": "egg",
-    "russian": "яйцо"
+    "russian": "яйцо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "aardbei",
     "english": "strawberry",
-    "russian": "клубника"
+    "russian": "клубника",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "peper",
     "english": "pepper",
-    "russian": "перец"
+    "russian": "перец",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "brood",
     "english": "bread",
-    "russian": "хлеб;булка"
+    "russian": "хлеб;булка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hebt",
     "english": "have",
-    "russian": "имеют"
+    "russian": "имеют",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoi",
     "english": "hi",
-    "russian": "привет"
+    "russian": "привет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dank je",
     "english": "thank you",
-    "russian": "спасибо тебе;спасибо"
+    "russian": "спасибо тебе;спасибо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goedendag",
     "english": "good day",
-    "russian": "хороший день"
+    "russian": "хороший день",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "het spijt me",
     "english": "i am sorry",
-    "russian": "прости"
+    "russian": "прости",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tot ziens",
     "english": "see you",
-    "russian": "до свидания"
+    "russian": "до свидания",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "oké",
     "english": "ok;okay",
-    "russian": "хорошо;ок"
+    "russian": "хорошо;ок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoe gaat het",
     "english": "how are you",
-    "russian": "как ты"
+    "russian": "как ты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "pardon",
     "english": "pardon;excuse me",
-    "russian": "извините;извини"
+    "russian": "извините;извини",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dank je wel",
     "english": "thank you",
-    "russian": "спасибо;благодарю"
+    "russian": "спасибо;благодарю",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goedemorgen",
     "english": "good morning",
-    "russian": "доброе утро"
+    "russian": "доброе утро",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "spreken",
     "english": "to speak",
-    "russian": "говорить"
+    "russian": "говорить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boterham",
     "english": "sandwich",
-    "russian": "сэндвич;бутерброд"
+    "russian": "сэндвич;бутерброд",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "melk",
     "english": "milk",
-    "russian": "молоко"
+    "russian": "молоко",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vissen",
     "english": "fish",
-    "russian": "рыба"
+    "russian": "рыба",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "twee",
     "english": "two",
-    "russian": "два"
+    "russian": "два",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kookt",
     "english": "cooks",
-    "russian": "готовит"
+    "russian": "готовит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kat",
     "english": "cat",
-    "russian": "кот;кошка"
+    "russian": "кот;кошка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hond",
     "english": "dog",
-    "russian": "собака"
+    "russian": "собака",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "alstublieft",
     "english": "please",
-    "russian": "пожалуйста"
+    "russian": "пожалуйста",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meneer",
     "english": "mr;mister;sir",
-    "russian": "мистер"
+    "russian": "мистер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "middageten",
     "english": "lunch",
-    "russian": "обед"
+    "russian": "обед",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "u",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "uw",
     "english": "your",
-    "russian": "ваш"
+    "russian": "ваш",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dank u wel",
     "english": "thank you",
-    "russian": "спасибо тебе;спасибо"
+    "russian": "спасибо вам;спасибо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "men",
     "english": "men",
-    "russian": "мужчина"
+    "russian": "мужчина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "iets",
     "english": "something",
-    "russian": "что-то"
+    "russian": "что-то",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dus",
     "english": "so;thus;therefore",
-    "russian": "так"
+    "russian": "так",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "paarden",
     "english": "horses",
-    "russian": "лошади"
+    "russian": "лошади",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "iemand",
     "english": "somebody",
-    "russian": "кто-то"
+    "russian": "кто-то",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "alle",
     "english": "all",
-    "russian": "все"
+    "russian": "все",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "honger",
     "english": "hunger",
-    "russian": "голод"
+    "russian": "голод",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wil",
     "english": "want",
-    "russian": "хочу;хочет;хотят"
+    "russian": "хочу;хочет;хотят",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "verschillende",
     "english": "various",
-    "russian": "различный"
+    "russian": "различный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zout",
     "english": "salt",
-    "russian": "соль"
+    "russian": "соль",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "alles",
     "english": "everything",
-    "russian": "все"
+    "russian": "все",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "genoeg",
     "english": "enough",
-    "russian": "достаточно"
+    "russian": "достаточно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "appels",
     "english": "apples",
-    "russian": "яблоки"
+    "russian": "яблоки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "komen",
     "english": "come",
-    "russian": "прийти"
+    "russian": "прийти",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "je",
     "english": "you",
-    "russian": "вы"
+    "russian": "вы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "want",
     "english": "because",
-    "russian": "потому что"
+    "russian": "потому что",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dorst",
     "english": "thirst",
-    "russian": "жажда"
+    "russian": "жажда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maar",
     "english": "but",
-    "russian": "но"
+    "russian": "но",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "of",
     "english": "or",
-    "russian": "или"
+    "russian": "или",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meisjes",
     "english": "girls",
-    "russian": "девочки"
+    "russian": "девочки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "willen",
     "english": "want",
-    "russian": "хочу"
+    "russian": "хочу",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "speel",
     "english": "play",
-    "russian": "играть"
+    "russian": "играть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schrijft",
     "english": "writes",
-    "russian": "пишет"
+    "russian": "пишет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koeien",
     "english": "cows",
-    "russian": "коровы"
+    "russian": "коровы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "suiker",
     "english": "sugar",
-    "russian": "сахар"
+    "russian": "сахар",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kaas",
     "english": "cheese",
-    "russian": "сыр"
+    "russian": "сыр",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mij",
     "english": "me",
-    "russian": "мне;я"
+    "russian": "мне;я",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "me",
     "english": "me",
-    "russian": "мне"
+    "russian": "мне",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "olifanten",
     "english": "elephants",
-    "russian": "слоны"
+    "russian": "слоны",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "soep",
     "english": "soup",
-    "russian": "суп"
+    "russian": "суп",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "langzaam;langzame",
     "english": "slow",
-    "russian": "медленно"
+    "russian": "медленно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schrijf",
     "english": "write",
-    "russian": "писать"
+    "russian": "писать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwemt",
     "english": "is swimming;swimming",
-    "russian": "плавает"
+    "russian": "плавает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wilt",
     "english": "want",
-    "russian": "к"
+    "russian": "к",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "varken",
     "english": "pig",
-    "russian": "свинья"
+    "russian": "свинья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "speelt",
     "english": "plays",
-    "russian": "игры;играет"
+    "russian": "игры;играет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "glazen",
     "english": "glasses",
-    "russian": "стекло;стаканы"
+    "russian": "стекло;стаканы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "groot",
     "english": "big;large",
-    "russian": "большой"
+    "russian": "большой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sinaasappel",
     "english": "orange",
-    "russian": "апельсин"
+    "russian": "апельсин",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hert",
     "english": "deer",
-    "russian": "олень"
+    "russian": "олень",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "paar",
     "english": "couple",
-    "russian": "пара"
+    "russian": "пара",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wat",
     "english": "what",
-    "russian": "какие;что"
+    "russian": "какие;что",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "alsjeblieft",
     "english": "please",
-    "russian": "пожалуйста"
+    "russian": "пожалуйста",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "varkens",
     "english": "pigs",
-    "russian": "свиней"
+    "russian": "свиней",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "honden",
     "english": "dogs",
-    "russian": "собаки;собак"
+    "russian": "собаки;собак",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eenden",
     "english": "ducks",
-    "russian": "утки"
+    "russian": "утки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "allerlei",
     "english": "all kinds of",
-    "russian": "все виды"
+    "russian": "все виды",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sommige",
     "english": "some",
-    "russian": "некоторые"
+    "russian": "некоторые",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dag",
     "english": "day",
-    "russian": "день"
+    "russian": "день",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "doei",
     "english": "bye;goodbye;good bye",
-    "russian": "до свидания;пока"
+    "russian": "до свидания;пока",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goedenavond",
     "english": "good evening",
-    "russian": "добрый вечер"
+    "russian": "добрый вечер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "beetje",
     "english": "a little;little",
-    "russian": "немного"
+    "russian": "немного",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "welterusten",
     "english": "good night",
-    "russian": "спокойной ночи"
+    "russian": "спокойной ночи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "groente",
     "english": "vegetable",
-    "russian": "овощной;овощи"
+    "russian": "овощной;овощи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vogel",
     "english": "bird",
-    "russian": "птица"
+    "russian": "птица",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "banaan",
     "english": "banana",
-    "russian": "банан"
+    "russian": "банан",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "korte",
     "english": "short",
-    "russian": "короткие;короткий"
+    "russian": "короткие;короткий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "snel",
     "english": "fast",
-    "russian": "быстро"
+    "russian": "быстро",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tijdens",
     "english": "while",
-    "russian": "во время"
+    "russian": "во время",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vanwege",
     "english": "because of",
-    "russian": "из-за"
+    "russian": "из-за",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "over",
     "english": "about",
-    "russian": "об этом"
+    "russian": "об этом",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "onder",
     "english": "under",
-    "russian": "ниже;под"
+    "russian": "ниже;под",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voor",
     "english": "for",
-    "russian": "для"
+    "russian": "для",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "achter",
     "english": "after",
-    "russian": "за;после"
+    "russian": "за;после",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "roos",
     "english": "rose",
-    "russian": "роза"
+    "russian": "роза",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "namen",
     "english": "names",
-    "russian": "имена"
+    "russian": "имена",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dure;duur",
     "english": "expensive",
-    "russian": "дорогой"
+    "russian": "дорогой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tassen",
     "english": "bags",
-    "russian": "мешки;пакеты"
+    "russian": "мешки;пакеты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "oranje",
     "english": "orange",
-    "russian": "оранжевый"
+    "russian": "оранжевый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "roze",
     "english": "pink",
-    "russian": "розовый"
+    "russian": "розовый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "interessant",
     "english": "interesting",
-    "russian": "интересный"
+    "russian": "интересный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schoon",
     "english": "clean",
-    "russian": "чистый"
+    "russian": "чистый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zoals",
     "english": "such as",
-    "russian": "как"
+    "russian": "как",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "interessante",
     "english": "interesting",
-    "russian": "интересный"
+    "russian": "интересный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koude;koud",
     "english": "cold",
-    "russian": "простуда;холодно;холод"
+    "russian": "простуда;холодно;холод",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schone",
     "english": "clan one",
-    "russian": "чистый один"
+    "russian": "чистый один",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "warm",
     "english": "warm",
-    "russian": "горячий"
+    "russian": "горячий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rustige",
     "english": "quiet",
-    "russian": "тихий"
+    "russian": "тихий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "net",
     "english": "just",
-    "russian": "просто"
+    "russian": "просто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rustig",
     "english": "quiet",
-    "russian": "тихо"
+    "russian": "тихо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "warme",
     "english": "hot",
-    "russian": "горячий"
+    "russian": "горячий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "leeg",
     "english": "empty",
-    "russian": "пусто;пустой"
+    "russian": "пусто;пустой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "verse;vers",
     "english": "fresh",
-    "russian": "свежий;свежое"
+    "russian": "свежий;свежое",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "belangrijk;belangrijke",
     "english": "important",
-    "russian": "важно"
+    "russian": "важно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "leuk;leuke",
     "english": "nice;tasty",
-    "russian": "хороший;хорошо"
+    "russian": "хороший;хорошо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "makkelijk",
     "english": "easy",
-    "russian": "легко"
+    "russian": "легко",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geeft",
     "english": "give;gives",
-    "russian": "даёт"
+    "russian": "даёт",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maakt",
     "english": "makes",
-    "russian": "делать;делает"
+    "russian": "делать;делает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gaat",
     "english": "is going",
-    "russian": "пойти;идёт"
+    "russian": "пойти;идёт",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maken",
     "english": "to make",
-    "russian": "сделать"
+    "russian": "сделать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gaan",
     "english": "to go",
-    "russian": "идти"
+    "russian": "идти",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geven",
     "english": "give",
-    "russian": "дать"
+    "russian": "дать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ga",
     "english": "go",
-    "russian": "идти"
+    "russian": "идти",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kennen;ken",
     "english": "know",
-    "russian": "знать"
+    "russian": "знать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geef",
     "english": "give",
-    "russian": "дать"
+    "russian": "дать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zaterdag",
     "english": "saturday",
-    "russian": "суббота"
+    "russian": "суббота",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maandagen",
     "english": "mondays",
-    "russian": "понедельники"
+    "russian": "понедельники",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zondagen",
     "english": "sundays",
-    "russian": "воскресенье"
+    "russian": "воскресенье",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "donderdag",
     "english": "thursday",
-    "russian": "четверг"
+    "russian": "четверг",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maandag",
     "english": "monday",
-    "russian": "понедельник"
+    "russian": "понедельник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "woensdag",
     "english": "wednesday",
-    "russian": "среда"
+    "russian": "среда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zondag",
     "english": "sunday",
-    "russian": "воскресенье"
+    "russian": "воскресенье",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dinsdag",
     "english": "tuesday",
-    "russian": "вторник"
+    "russian": "вторник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vrijdag",
     "english": "friday",
-    "russian": "пятница"
+    "russian": "пятница",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vandaag",
     "english": "today",
-    "russian": "vandaag"
+    "russian": "vandaag",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tot",
     "english": "until",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "op",
     "english": "on",
-    "russian": "на"
+    "russian": "на",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "welke",
     "english": "which",
-    "russian": "какой"
+    "russian": "какой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "naar",
     "english": "to",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoeveel",
     "english": "how much",
-    "russian": "сколько"
+    "russian": "сколько",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "drieduizend zeshonderd",
     "english": "three thousand six hundred",
-    "russian": "три тысячи шестьсот"
+    "russian": "три тысячи шестьсот",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "totaal",
     "english": "total",
-    "russian": "общее количество"
+    "russian": "общее количество",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "helft",
     "english": "half",
-    "russian": "половина"
+    "russian": "половина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "er",
     "english": "there",
-    "russian": "там"
+    "russian": "там",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "in",
     "english": "in",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "drie",
     "english": "three",
-    "russian": "три"
+    "russian": "три",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zeven",
     "english": "seven",
-    "russian": "семь"
+    "russian": "семь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zoveel",
     "english": "this much",
-    "russian": "так много"
+    "russian": "так много",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meerderheid",
     "english": "majority",
-    "russian": "большинство"
+    "russian": "большинство",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "telt",
     "english": "counts",
-    "russian": "счетчики"
+    "russian": "счетчики",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vier",
     "english": "four",
-    "russian": "четыре"
+    "russian": "четыре",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "som",
     "english": "sum",
-    "russian": "сумма"
+    "russian": "сумма",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "honderd",
     "english": "hundred",
-    "russian": "сто"
+    "russian": "сто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "miljoen",
     "english": "million",
-    "russian": "миллиона"
+    "russian": "миллиона",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gemiddelde",
     "english": "average",
-    "russian": "средний"
+    "russian": "средний",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "negentig",
     "english": "ninety",
-    "russian": "девяносто"
+    "russian": "девяносто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "veertig",
     "english": "forty",
-    "russian": "сорок"
+    "russian": "сорок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tachtig",
     "english": "eighty",
-    "russian": "восемьдесят"
+    "russian": "восемьдесят",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zestig",
     "english": "sixty",
-    "russian": "шестьдесят"
+    "russian": "шестьдесят",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vijftig",
     "english": "fifty",
-    "russian": "пятьдесят"
+    "russian": "пятьдесят",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zeventig",
     "english": "seventy",
-    "russian": "семьдесят"
+    "russian": "семьдесят",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koorts",
     "english": "fever",
-    "russian": "лихорадка"
+    "russian": "лихорадка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gezondheid",
     "english": "health",
-    "russian": "здоровье"
+    "russian": "здоровье",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "pijn",
     "english": "pain",
-    "russian": "боль"
+    "russian": "боль",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "griep",
     "english": "flu",
-    "russian": "грипп"
+    "russian": "грипп",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zesentwintig",
     "english": "twenty six",
-    "russian": "двадцать шесть"
+    "russian": "двадцать шесть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "negenentwintig",
     "english": "twenty nine",
-    "russian": "двадцать девять"
+    "russian": "двадцать девять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zevenentwintig",
     "english": "twenty seven",
-    "russian": "двадцать семь"
+    "russian": "двадцать семь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "na",
     "english": "after",
-    "russian": "после"
+    "russian": "после",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nog",
     "english": "yet",
-    "russian": "еще"
+    "russian": "еще",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "achtentwintig",
     "english": "twenty eight",
-    "russian": "двадцать восемь"
+    "russian": "двадцать восемь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bij",
     "english": "at",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dertig",
     "english": "thirty",
-    "russian": "тридцать"
+    "russian": "тридцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meer",
     "english": "more",
-    "russian": "более"
+    "russian": "более",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vragen",
     "english": "questions;ask",
-    "russian": "спросить"
+    "russian": "спросить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tweeëntwintig;tweeentwintig",
     "english": "twenty-two",
-    "russian": "двадцать два"
+    "russian": "двадцать два",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "waarom",
     "english": "why",
-    "russian": "почему"
+    "russian": "почему",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vierentwintig",
     "english": "twenty four",
-    "russian": "двадцать четыре"
+    "russian": "двадцать четыре",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dan",
     "english": "then",
-    "russian": "то"
+    "russian": "то",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eenentwintig",
     "english": "twenty one",
-    "russian": "двадцать один"
+    "russian": "двадцать один",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "drieëntwintig",
     "english": "twenty three",
-    "russian": "двадцать три"
+    "russian": "двадцать три",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vijfentwintig",
     "english": "twenty five",
-    "russian": "двадцать пять"
+    "russian": "двадцать пять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "duwt",
     "english": "pushes",
-    "russian": "толчки;толкнуть;толкать"
+    "russian": "толчки;толкнуть;толкать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "trekken",
     "english": "pull",
-    "russian": "тянуть"
+    "russian": "тянуть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hangt",
     "english": "depends",
-    "russian": "зависит"
+    "russian": "зависит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hangen",
     "english": "to hang",
-    "russian": "висеть"
+    "russian": "висеть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "open",
     "english": "open",
-    "russian": "открытый"
+    "russian": "открытый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "trekt",
     "english": "attracts",
-    "russian": "привлекает"
+    "russian": "привлекает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gebeurt",
     "english": "happens",
-    "russian": "происходит"
+    "russian": "происходит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "duw",
     "english": "push",
-    "russian": "толчок;толкнуть;толкать"
+    "russian": "толчок;толкнуть;толкать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "opent",
     "english": "opens",
-    "russian": "открывать"
+    "russian": "открывать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "duwen",
     "english": "to push",
-    "russian": "подтолкнуть"
+    "russian": "подтолкнуть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tegen",
     "english": "against",
-    "russian": "против"
+    "russian": "против",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "niets",
     "english": "nothing",
-    "russian": "ничего"
+    "russian": "ничего",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "aan",
     "english": "on",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kan",
     "english": "can",
-    "russian": "может"
+    "russian": "может",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mogen",
     "english": "be allowed to",
-    "russian": "может"
+    "russian": "может",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vergeten",
     "english": "to forget",
-    "russian": "забывать;забыть"
+    "russian": "забывать;забыть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "toon",
     "english": "tone",
-    "russian": "тон"
+    "russian": "тон",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "veranderen",
     "english": "change",
-    "russian": "изменить"
+    "russian": "изменить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vergeet",
     "english": "forget",
-    "russian": "забывает;забывать"
+    "russian": "забывает;забывать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "toont",
     "english": "shows",
-    "russian": "показывает"
+    "russian": "показывает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "begint",
     "english": "begins",
-    "russian": "начинается"
+    "russian": "начинается",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stopt",
     "english": "stops",
-    "russian": "останавливается"
+    "russian": "останавливается",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stoppen",
     "english": "stop",
-    "russian": "остановиться"
+    "russian": "остановиться",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geloven",
     "english": "to blieve",
-    "russian": "верить"
+    "russian": "верить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tonen",
     "english": "show",
-    "russian": "шоу"
+    "russian": "шоу",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "beginnen",
     "english": "to begin;to start",
-    "russian": "начать"
+    "russian": "начать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nooit",
     "english": "never",
-    "russian": "никогда"
+    "russian": "никогда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zonder",
     "english": "without",
-    "russian": "без"
+    "russian": "без",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kunnen",
     "english": "can",
-    "russian": "может"
+    "russian": "может",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "opeens",
     "english": "suddenly",
-    "russian": "вдруг"
+    "russian": "вдруг",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "laat",
     "english": "late",
-    "russian": "поздно"
+    "russian": "поздно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "volgt",
     "english": "follows",
-    "russian": "следует"
+    "russian": "следует",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "pakken",
     "english": "to grab",
-    "russian": "схватить"
+    "russian": "схватить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "haalt",
     "english": "gets it",
-    "russian": "получает это"
+    "russian": "получает это",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vraag",
     "english": "ask",
-    "russian": "спросить"
+    "russian": "спросить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "begrijp",
     "english": "understand",
-    "russian": "понятный;понять"
+    "russian": "понятный;понять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hopen",
     "english": "to hope",
-    "russian": "надежда"
+    "russian": "надежда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoop",
     "english": "hope",
-    "russian": "надежда"
+    "russian": "надежда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vraagt",
     "english": "asks",
-    "russian": "спрашивает"
+    "russian": "спрашивает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "volgen",
     "english": "to follow",
-    "russian": "следовать"
+    "russian": "следовать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "pak",
     "english": "suit",
-    "russian": "костюм"
+    "russian": "костюм",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "te",
     "english": "to",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "brengt",
     "english": "brings",
-    "russian": "приносит"
+    "russian": "приносит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kiezen",
     "english": "select",
-    "russian": "выбирать"
+    "russian": "выбирать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kies",
     "english": "choose",
-    "russian": "выбирать"
+    "russian": "выбирать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "studeren",
     "english": "to study",
-    "russian": "учиться"
+    "russian": "учиться",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ren",
     "english": "run",
-    "russian": "бежать"
+    "russian": "бежать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rennen",
     "english": "run",
-    "russian": "пробег"
+    "russian": "пробег",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wacht",
     "english": "wait",
-    "russian": "жди"
+    "russian": "жди",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wachten",
     "english": "to wait",
-    "russian": "ожидание"
+    "russian": "ожидание",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "studeer",
     "english": "study",
-    "russian": "исследование"
+    "russian": "исследование",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "praten",
     "english": "to talk",
-    "russian": "praten"
+    "russian": "praten",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mag",
     "english": "allowed",
-    "russian": "дозволенный;позволенный"
+    "russian": "дозволенный;позволенный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zelf",
     "english": "self",
-    "russian": "сам"
+    "russian": "сам",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoelang",
     "english": "how long",
-    "russian": "как долго"
+    "russian": "как долго",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meter",
     "english": "meter",
-    "russian": "метр"
+    "russian": "метр",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "met",
     "english": "with",
-    "russian": "с"
+    "russian": "с",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vijftien",
     "english": "fifteen",
-    "russian": "пятнадцать"
+    "russian": "пятнадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voordat",
     "english": "before",
-    "russian": "до"
+    "russian": "до",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schouders",
     "english": "shoulders",
-    "russian": "плечи"
+    "russian": "плечи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "knieën;knieen",
     "english": "knees",
-    "russian": "колени"
+    "russian": "колени",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "botten",
     "english": "bones;skeleton",
-    "russian": "скелет"
+    "russian": "скелет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "knie",
     "english": "knee",
-    "russian": "колено"
+    "russian": "колено",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tenen",
     "english": "toes",
-    "russian": "пальцы"
+    "russian": "пальцы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "maag",
     "english": "stomach",
-    "russian": "желудок"
+    "russian": "желудок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "buik",
     "english": "belly",
-    "russian": "живот"
+    "russian": "живот",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bot",
     "english": "bone",
-    "russian": "кость"
+    "russian": "кость",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "teen",
     "english": "toe",
-    "russian": "палец ноги"
+    "russian": "палец ноги",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "magen",
     "english": "stomachs",
-    "russian": "желудки"
+    "russian": "желудки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schouder",
     "english": "shoulder",
-    "russian": "плечо"
+    "russian": "плечо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lichaamsdelen",
     "english": "body parts",
-    "russian": "части тела"
+    "russian": "части тела",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "borst",
     "english": "chest",
-    "russian": "грудь"
+    "russian": "грудь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "keel",
     "english": "throat",
-    "russian": "горло"
+    "russian": "горло",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tand",
     "english": "tooth",
-    "russian": "зуб"
+    "russian": "зуб",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lippen",
     "english": "lips",
-    "russian": "губы"
+    "russian": "губы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lichaamsdeel",
     "english": "body part",
-    "russian": "часть тела"
+    "russian": "часть тела",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rug",
     "english": "back",
-    "russian": "спина"
+    "russian": "спина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tanden",
     "english": "teeth",
-    "russian": "зубы"
+    "russian": "зубы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "één",
     "english": "one",
-    "russian": "один"
+    "russian": "один",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "allemaal",
     "english": "all of them;everybody",
-    "russian": "все они"
+    "russian": "все они",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "welk",
     "english": "which",
-    "russian": "какие"
+    "russian": "какие",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "arm",
     "english": "arm",
-    "russian": "рука"
+    "russian": "рука",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voeten",
     "english": "feet",
-    "russian": "стопы"
+    "russian": "стопы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hersenen",
     "english": "brain",
-    "russian": "мозги;мозг"
+    "russian": "мозги;мозг",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "armen",
     "english": "hands",
-    "russian": "руки"
+    "russian": "руки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "been",
     "english": "leg",
-    "russian": "нога"
+    "russian": "нога",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "benen",
     "english": "legs",
-    "russian": "ноги"
+    "russian": "ноги",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vingers",
     "english": "fingers",
-    "russian": "пальцы"
+    "russian": "пальцы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "waar",
     "english": "where",
-    "russian": "где"
+    "russian": "где",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vijf",
     "english": "five",
-    "russian": "пять"
+    "russian": "пять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nek",
     "english": "neck",
-    "russian": "шея"
+    "russian": "шея",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hart",
     "english": "heart",
-    "russian": "сердце"
+    "russian": "сердце",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "haren",
     "english": "hair",
-    "russian": "волосы"
+    "russian": "волосы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gezicht",
     "english": "face",
-    "russian": "лицо"
+    "russian": "лицо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "altijd",
     "english": "always",
-    "russian": "всегда"
+    "russian": "всегда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "huid",
     "english": "skin",
-    "russian": "кожа"
+    "russian": "кожа",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zorgt",
     "english": "takes care;take care",
-    "russian": "заботится"
+    "russian": "заботится",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoofden",
     "english": "heads",
-    "russian": "головы"
+    "russian": "головы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "handen",
     "english": "hands",
-    "russian": "руки"
+    "russian": "руки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hand",
     "english": "hand",
-    "russian": "рука"
+    "russian": "рука",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lichaam",
     "english": "body",
-    "russian": "тело"
+    "russian": "тело",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zorgen",
     "english": "worry;to care",
-    "russian": "беспокойство"
+    "russian": "беспокойство",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoofd",
     "english": "head",
-    "russian": "голова"
+    "russian": "голова",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zorg",
     "english": "care",
-    "russian": "уход"
+    "russian": "уход",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bloed",
     "english": "blood",
-    "russian": "кровь"
+    "russian": "кровь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stofzuiger",
     "english": "vacuum cleaner",
-    "russian": "пылесос"
+    "russian": "пылесос",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bel",
     "english": "bell",
-    "russian": "колокол"
+    "russian": "колокол",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vuilnisbak",
     "english": "bin",
-    "russian": "мусорное ведро"
+    "russian": "мусорное ведро",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "spiegel",
     "english": "mirror",
-    "russian": "зеркало"
+    "russian": "зеркало",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bezem",
     "english": "broom",
-    "russian": "bezem"
+    "russian": "bezem",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "afval",
     "english": "waste",
-    "russian": "отходы"
+    "russian": "отходы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "weer",
     "english": "weather",
-    "russian": "погода"
+    "russian": "погода",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gordijn",
     "english": "curtain",
-    "russian": "занавес"
+    "russian": "занавес",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lakens",
     "english": "sheets;cloth",
-    "russian": "ткань"
+    "russian": "ткань",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tapijt",
     "english": "rug;carpet",
-    "russian": "ковер"
+    "russian": "ковер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bank",
     "english": "bank",
-    "russian": "банк"
+    "russian": "банк",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kussen",
     "english": "kiss;to kiss",
-    "russian": "Целовать"
+    "russian": "Целовать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kussens",
     "english": "pillows",
-    "russian": "подушки"
+    "russian": "подушки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kast",
     "english": "closet",
-    "russian": "шкаф"
+    "russian": "шкаф",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "laden",
     "english": "load",
-    "russian": "нагрузка"
+    "russian": "нагрузка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lamp",
     "english": "lamps",
-    "russian": "лампа"
+    "russian": "лампа",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lampen",
     "english": "lamp",
-    "russian": "лампы"
+    "russian": "лампы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voorwerpen",
     "english": "objects",
-    "russian": "объекты"
+    "russian": "объекты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voorwerp",
     "english": "object",
-    "russian": "объект"
+    "russian": "объект",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lade",
     "english": "drawer",
-    "russian": "ящик"
+    "russian": "ящик",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meubels",
     "english": "furniture",
-    "russian": "мебель"
+    "russian": "мебель",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "muur",
     "english": "wall",
-    "russian": "стена"
+    "russian": "стена",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "keuken",
     "english": "kitchen",
-    "russian": "кухня"
+    "russian": "кухня",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slaapkamer",
     "english": "bedroom",
-    "russian": "спальня"
+    "russian": "спальня",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slaapkamers",
     "english": "bedrooms",
-    "russian": "спальни"
+    "russian": "спальни",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vloer",
     "english": "floor",
-    "russian": "пол"
+    "russian": "пол",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "badkamer",
     "english": "bathroom",
-    "russian": "ванная"
+    "russian": "ванная",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "woonkamer",
     "english": "living room",
-    "russian": "гостиная"
+    "russian": "гостиная",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meteen",
     "english": "right away",
-    "russian": "сразу"
+    "russian": "сразу",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "blijven",
     "english": "stay",
-    "russian": "пребывание"
+    "russian": "пребывание",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "blijf",
     "english": "stay;remain",
-    "russian": "пребывание;оставаться"
+    "russian": "пребывание;оставаться",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "blijft",
     "english": "remains",
-    "russian": "продолжается"
+    "russian": "продолжается",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "totdat",
     "english": "until",
-    "russian": "до"
+    "russian": "до",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vanavond",
     "english": "tonight",
-    "russian": "сегодня вечером"
+    "russian": "сегодня вечером",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tuin",
     "english": "garden",
-    "russian": "сад"
+    "russian": "сад",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "raam",
     "english": "window",
-    "russian": "окно"
+    "russian": "окно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slot",
     "english": "key lock;lock",
-    "russian": "замок"
+    "russian": "замок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kamers",
     "english": "rooms",
-    "russian": "комнаты"
+    "russian": "комнаты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kamer",
     "english": "room",
-    "russian": "комната"
+    "russian": "комната",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sleutel",
     "english": "key",
-    "russian": "ключ"
+    "russian": "ключ",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "deur",
     "english": "door",
-    "russian": "дверь"
+    "russian": "дверь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "graag",
     "english": "gladly",
-    "russian": "с удовольствием"
+    "russian": "с удовольствием",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "om",
     "english": "to",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "door",
     "english": "through",
-    "russian": "по"
+    "russian": "по",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "uitzicht",
     "english": "view",
-    "russian": "вид"
+    "russian": "вид",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kunt",
     "english": "can",
-    "russian": "может"
+    "russian": "может",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "alleen",
     "english": "only",
-    "russian": "только"
+    "russian": "только",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slagers",
     "english": "butchers",
-    "russian": "мясники"
+    "russian": "мясники",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "soldaten",
     "english": "soldiers",
-    "russian": "военные;солдаты"
+    "russian": "военные;солдаты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bakker",
     "english": "baker",
-    "russian": "пекарь"
+    "russian": "пекарь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bakkers",
     "english": "bakers",
-    "russian": "пекари"
+    "russian": "пекари",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dierenarts",
     "english": "veterinarian",
-    "russian": "ветеринар"
+    "russian": "ветеринар",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "soldaat",
     "english": "soldier",
-    "russian": "солдат"
+    "russian": "солдат",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "directeur",
     "english": "director",
-    "russian": "директор"
+    "russian": "директор",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "piloot",
     "english": "pilot",
-    "russian": "пилот"
+    "russian": "пилот",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slager",
     "english": "butcher",
-    "russian": "мясник"
+    "russian": "мясник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wie",
     "english": "who",
-    "russian": "кто"
+    "russian": "кто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bewaker",
     "english": "guard",
-    "russian": "охрана"
+    "russian": "охрана",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kapitein",
     "english": "captain",
-    "russian": "капитан"
+    "russian": "капитан",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "actrice",
     "english": "actress",
-    "russian": "актриса"
+    "russian": "актриса",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ingenieur",
     "english": "engineer",
-    "russian": "инженер"
+    "russian": "инженер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ingenieurs",
     "english": "engineers",
-    "russian": "инженеры"
+    "russian": "инженеры",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bewakers",
     "english": "bewakers",
-    "russian": "охрана"
+    "russian": "охрана",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kok",
     "english": "really;why",
-    "russian": "почему"
+    "russian": "почему",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "acteur",
     "english": "actor",
-    "russian": "актер"
+    "russian": "актер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "beroep",
     "english": "profession;occupation",
-    "russian": "профессия"
+    "russian": "профессия",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "serveersters",
     "english": "waitresses",
-    "russian": "официантки"
+    "russian": "официантки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "baas",
     "english": "boss",
-    "russian": "босс"
+    "russian": "босс",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boer",
     "english": "boer",
-    "russian": "бур"
+    "russian": "бур",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "architecten",
     "english": "architects",
-    "russian": "архитекторы"
+    "russian": "архитекторы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "architect",
     "english": "architect",
-    "russian": "архитектор"
+    "russian": "архитектор",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ober",
     "english": "waiter",
-    "russian": "официант"
+    "russian": "официант",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "serveerster",
     "english": "waitress",
-    "russian": "официантка"
+    "russian": "официантка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "personeel",
     "english": "personnel;staff",
-    "russian": "персонал"
+    "russian": "персонал",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "secretaresse",
     "english": "secretary",
-    "russian": "секретарь"
+    "russian": "секретарь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "secretaris",
     "english": "secretary",
-    "russian": "секретарь"
+    "russian": "секретарь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "advocaat",
     "english": "lawyer",
-    "russian": "адвокат"
+    "russian": "адвокат",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dokter",
     "english": "doctor",
-    "russian": "врач"
+    "russian": "врач",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dokters",
     "english": "doctors",
-    "russian": "врачи"
+    "russian": "врачи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "burgemeester",
     "english": "mayor",
-    "russian": "мэр"
+    "russian": "мэр",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "advocaten",
     "english": "lawyers",
-    "russian": "адвокаты"
+    "russian": "адвокаты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoe",
     "english": "how",
-    "russian": "как"
+    "russian": "как",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "thuis",
     "english": "home",
-    "russian": "дома"
+    "russian": "дома",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "carrière",
     "english": "career",
-    "russian": "карьера"
+    "russian": "карьера",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werkgevers",
     "english": "employers",
-    "russian": "работодатели"
+    "russian": "работодатели",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werknemers",
     "english": "employees",
-    "russian": "сотрудники"
+    "russian": "сотрудники",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kunstenaar",
     "english": "painter;artist",
-    "russian": "художник"
+    "russian": "художник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kunstenares",
     "english": "painter;artist",
-    "russian": "художник"
+    "russian": "художник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kunstenaars",
     "english": "paniters;artists",
-    "russian": "художники"
+    "russian": "художники",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "modellen",
     "english": "models",
-    "russian": "модели"
+    "russian": "модели",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werknemer",
     "english": "employee",
-    "russian": "сотрудник"
+    "russian": "сотрудник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werkgever",
     "english": "employer",
-    "russian": "работодатель"
+    "russian": "работодатель",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "model",
     "english": "models",
-    "russian": "модель"
+    "russian": "модель",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "baan",
     "english": "work;job",
-    "russian": "работа"
+    "russian": "работа",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "studenten",
     "english": "students",
-    "russian": "студенты"
+    "russian": "студенты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schrijfster",
     "english": "writer",
-    "russian": "писательница"
+    "russian": "писательница",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schrijver",
     "english": "writer",
-    "russian": "писатель"
+    "russian": "писатель",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "student",
     "english": "student",
-    "russian": "студент"
+    "russian": "студент",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schrijfsters",
     "english": "writers",
-    "russian": "писатели"
+    "russian": "писатели",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "studente",
     "english": "student",
-    "russian": "студент"
+    "russian": "студент",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werk",
     "english": "work",
-    "russian": "работа"
+    "russian": "работа",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geld",
     "english": "money",
-    "russian": "деньги"
+    "russian": "деньги",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stukjes",
     "english": "pieces",
-    "russian": "штук"
+    "russian": "штук",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "flessen",
     "english": "bottles",
-    "russian": "бутылки"
+    "russian": "бутылки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "fles",
     "english": "bottle",
-    "russian": "бутылка"
+    "russian": "бутылка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werken",
     "english": "to work",
-    "russian": "работать"
+    "russian": "работать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dingen",
     "english": "stuff",
-    "russian": "вещи"
+    "russian": "вещи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stukje",
     "english": "piece",
-    "russian": "часть"
+    "russian": "часть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "acht",
     "english": "eight",
-    "russian": "восемь"
+    "russian": "восемь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "uit",
     "english": "out",
-    "russian": "выход"
+    "russian": "выход",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "feest",
     "english": "celebration",
-    "russian": "праздник"
+    "russian": "праздник",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "feesten",
     "english": "celebrate",
-    "russian": "праздновать"
+    "russian": "праздновать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "probleem",
     "english": "problem",
-    "russian": "проблема"
+    "russian": "проблема",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vaak",
     "english": "often",
-    "russian": "часто"
+    "russian": "часто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nieuw",
     "english": "new",
-    "russian": "новый"
+    "russian": "новый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nieuwe",
     "english": "new",
-    "russian": "новый"
+    "russian": "новый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "oud",
     "english": "old",
-    "russian": "старый"
+    "russian": "старый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "volle",
     "english": "full",
-    "russian": "полный"
+    "russian": "полный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "moeilijk",
     "english": "difficult",
-    "russian": "moeilijk"
+    "russian": "moeilijk",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zware",
     "english": "heavy",
-    "russian": "тяжелый"
+    "russian": "тяжелый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwaar",
     "english": "heavy",
-    "russian": "тяжелый"
+    "russian": "тяжелый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goedkope",
     "english": "cheap",
-    "russian": "дешево"
+    "russian": "дешево",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jonge",
     "english": "young",
-    "russian": "молодые"
+    "russian": "молодые",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "oude",
     "english": "old",
-    "russian": "старый"
+    "russian": "старый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "makkelijke",
     "english": "easy",
-    "russian": "легко"
+    "russian": "легко",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "goedkoop",
     "english": "cheap",
-    "russian": "дешево"
+    "russian": "дешево",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jong",
     "english": "young",
-    "russian": "молодой"
+    "russian": "молодой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "moeilijke",
     "english": "difficult",
-    "russian": "трудный"
+    "russian": "трудный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vol",
     "english": "full",
-    "russian": "полный"
+    "russian": "полный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lelijk",
     "english": "ugly",
-    "russian": "уродливый"
+    "russian": "уродливый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "harde",
     "english": "hard;tough",
-    "russian": "тяжелый"
+    "russian": "тяжелый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mooi",
     "english": "beautiful",
-    "russian": "красивый"
+    "russian": "красивый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voel",
     "english": "feel",
-    "russian": "чувствовать"
+    "russian": "чувствовать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voelen",
     "english": "to feel",
-    "russian": "чувствовать"
+    "russian": "чувствовать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hard",
     "english": "hard",
-    "russian": "жесткий"
+    "russian": "жесткий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zachte",
     "english": "soft",
-    "russian": "мягкий"
+    "russian": "мягкий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mooie",
     "english": "beautiful",
-    "russian": "красивый"
+    "russian": "красивый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lelijke",
     "english": "ugly",
-    "russian": "уродливый"
+    "russian": "уродливый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "voelt",
     "english": "feels",
-    "russian": "чувствует"
+    "russian": "чувствует",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zacht",
     "english": "soft",
-    "russian": "мягкий"
+    "russian": "мягкий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stinken",
     "english": "stink",
-    "russian": "вонь"
+    "russian": "вонь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "neuzen",
     "english": "noses",
-    "russian": "носы"
+    "russian": "носы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ruikt",
     "english": "smells",
-    "russian": "запахи"
+    "russian": "запахи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stinkt",
     "english": "stinks",
-    "russian": "воняет"
+    "russian": "воняет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geur",
     "english": "odor",
-    "russian": "запах"
+    "russian": "запах",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "parfums",
     "english": "perfumes",
-    "russian": "парфюмерия"
+    "russian": "парфюмерия",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "neus",
     "english": "nose",
-    "russian": "нос"
+    "russian": "нос",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ruiken",
     "english": "to smell",
-    "russian": "нюхать"
+    "russian": "нюхать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "parfum",
     "english": "perfume",
-    "russian": "парфюм"
+    "russian": "парфюм",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vies",
     "english": "dirty",
-    "russian": "грязный"
+    "russian": "грязный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mond",
     "english": "mouth",
-    "russian": "рот"
+    "russian": "рот",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tong",
     "english": "tongue",
-    "russian": "язык"
+    "russian": "язык",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "proeft",
     "english": "tastes",
-    "russian": "вкусы"
+    "russian": "вкусы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "smaak",
     "english": "taste",
-    "russian": "smaak"
+    "russian": "smaak",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vieze",
     "english": "dirty one",
-    "russian": "vieze"
+    "russian": "vieze",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "smaakt",
     "english": "tastes",
-    "russian": "smaakt"
+    "russian": "smaakt",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "proef",
     "english": "test",
-    "russian": "тест"
+    "russian": "тест",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "smaken",
     "english": "tastes",
-    "russian": "вкус"
+    "russian": "вкус",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "negen",
     "english": "nine",
-    "russian": "девять"
+    "russian": "девять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "luister",
     "english": "listen",
-    "russian": "слушать"
+    "russian": "слушать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geluid",
     "english": "sound",
-    "russian": "звук"
+    "russian": "звук",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "klinken",
     "english": "sound",
-    "russian": "звучать"
+    "russian": "звучать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "luisteren",
     "english": "listen",
-    "russian": "слушать"
+    "russian": "слушать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stem",
     "english": "voice",
-    "russian": "stem"
+    "russian": "stem",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "oor",
     "english": "ear",
-    "russian": "ухо"
+    "russian": "ухо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stemmen",
     "english": "to vote",
-    "russian": "голосовать"
+    "russian": "голосовать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "klinkt",
     "english": "sounds",
-    "russian": "звуки"
+    "russian": "звуки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "luistert",
     "english": "listens",
-    "russian": "прослушивание;слушает"
+    "russian": "прослушивание;слушает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geluiden",
     "english": "sounds",
-    "russian": "звуки"
+    "russian": "звуки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "muziek",
     "english": "music",
-    "russian": "музыка"
+    "russian": "музыка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lawaai",
     "english": "noise",
-    "russian": "шум"
+    "russian": "шум",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "steeds",
     "english": "always",
-    "russian": "всегда"
+    "russian": "всегда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "terwijl",
     "english": "while",
-    "russian": "пока;в то время как"
+    "russian": "пока;в то время как",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "heel",
     "english": "whole",
-    "russian": "очень"
+    "russian": "очень",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bekijken",
     "english": "to see",
-    "russian": "увидеть"
+    "russian": "увидеть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bekijk",
     "english": "view",
-    "russian": "вид"
+    "russian": "вид",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "foto's",
     "english": "photos",
-    "russian": "фотографии"
+    "russian": "фотографии",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lijken",
     "english": "appear",
-    "russian": "появляться"
+    "russian": "появляться",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bekijkt",
     "english": "viewing",
-    "russian": "просмотр"
+    "russian": "просмотр",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kijkt",
     "english": "looks",
-    "russian": "смотрит"
+    "russian": "смотрит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kijken",
     "english": "to look",
-    "russian": "смотреть"
+    "russian": "смотреть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "oog",
     "english": "eye",
-    "russian": "глаз"
+    "russian": "глаз",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lijkt",
     "english": "seems",
-    "russian": "кажется"
+    "russian": "кажется",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "foto",
     "english": "photo",
-    "russian": "фото"
+    "russian": "фото",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "antwoord",
     "english": "answer",
-    "russian": "ответ"
+    "russian": "ответ",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geen enkel",
     "english": "none",
-    "russian": "нет"
+    "russian": "нет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "niet eens",
     "english": "not even",
-    "russian": "даже не"
+    "russian": "даже не",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nog niet",
     "english": "not yet",
-    "russian": "еще нет"
+    "russian": "еще нет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "niks",
     "english": "nothing",
-    "russian": "ничего"
+    "russian": "ничего",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "niemand",
     "english": "no one;nobody",
-    "russian": "никто"
+    "russian": "никто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "noch",
     "english": "neither",
-    "russian": "ни"
+    "russian": "ни",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bijna",
     "english": "almost",
-    "russian": "почти"
+    "russian": "почти",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tien",
     "english": "ten",
-    "russian": "десять"
+    "russian": "десять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nergens",
     "english": "nowhere",
-    "russian": "нигде"
+    "russian": "нигде",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "duurt",
     "english": "takes",
-    "russian": "принимает;берёт"
+    "russian": "принимает;берёт",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "moment",
     "english": "moment",
-    "russian": "момент"
+    "russian": "момент",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "later",
     "english": "later",
-    "russian": "позже"
+    "russian": "позже",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eerder",
     "english": "earlier",
-    "russian": "предварительно"
+    "russian": "предварительно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "momenten",
     "english": "moments",
-    "russian": "моменты"
+    "russian": "моменты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "half",
     "english": "half",
-    "russian": "половина"
+    "russian": "половина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "morgen",
     "english": "tomorrow",
-    "russian": "завтра"
+    "russian": "завтра",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "seconde",
     "english": "second",
-    "russian": "второй"
+    "russian": "второй",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "minuten",
     "english": "minute",
-    "russian": "минут"
+    "russian": "минут",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "minuut",
     "english": "minute",
-    "russian": "минут"
+    "russian": "минут",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "seconden",
     "english": "seconds",
-    "russian": "секунд"
+    "russian": "секунд",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vroeg",
     "english": "early",
-    "russian": "рано"
+    "russian": "рано",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "keer",
     "english": "times",
-    "russian": "время"
+    "russian": "время",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vroege",
     "english": "early",
-    "russian": "рано"
+    "russian": "рано",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "per",
     "english": "per",
-    "russian": "по"
+    "russian": "по",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "elf",
     "english": "eleven",
-    "russian": "одиннадцать"
+    "russian": "одиннадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "veertien",
     "english": "fourteen",
-    "russian": "четырнадцать"
+    "russian": "четырнадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kwart",
     "english": "quarter",
-    "russian": "четверть"
+    "russian": "четверть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "twintig",
     "english": "twenty",
-    "russian": "двадцать"
+    "russian": "двадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "twaalf",
     "english": "twelve",
-    "russian": "двенадцать"
+    "russian": "двенадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zes",
     "english": "six",
-    "russian": "шесть"
+    "russian": "шесть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "uur",
     "english": "hour",
-    "russian": "час"
+    "russian": "час",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ochtends",
     "english": "in the morning",
-    "russian": "утром"
+    "russian": "утром",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "klok",
     "english": "clock",
-    "russian": "часы"
+    "russian": "часы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "middags",
     "english": "midday",
-    "russian": "полдень"
+    "russian": "полдень",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nachts",
     "english": "at night",
-    "russian": "ночью"
+    "russian": "ночью",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "avonds",
     "english": "evening",
-    "russian": "вечер"
+    "russian": "вечер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kwartier",
     "english": "quarter",
-    "russian": "четверть"
+    "russian": "четверть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoe laat",
     "english": "what time",
-    "russian": "во сколько"
+    "russian": "во сколько",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "overdag",
     "english": "during the day",
-    "russian": "в течение дня"
+    "russian": "в течение дня",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vanmiddag",
     "english": "this afternoon",
-    "russian": "сегодня днем"
+    "russian": "сегодня днем",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dagen",
     "english": "days",
-    "russian": "дней"
+    "russian": "дней",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "avond",
     "english": "evening",
-    "russian": "вечер"
+    "russian": "вечер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "middag",
     "english": "afternoon",
-    "russian": "после полудня"
+    "russian": "после полудня",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tijd",
     "english": "time",
-    "russian": "время"
+    "russian": "время",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ochtenden",
     "english": "mornings",
-    "russian": "утра"
+    "russian": "утра",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nacht",
     "english": "night",
-    "russian": "ночь"
+    "russian": "ночь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ochtend",
     "english": "morning",
-    "russian": "утро"
+    "russian": "утро",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "eindelijk",
     "english": "finally",
-    "russian": "в конце концов"
+    "russian": "в конце концов",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "samen",
     "english": "together",
-    "russian": "вместе"
+    "russian": "вместе",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wanneer",
     "english": "when",
-    "russian": "когда"
+    "russian": "когда",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "straks",
     "english": "later",
-    "russian": "позже"
+    "russian": "позже",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "meestal",
     "english": "mostly",
-    "russian": "главным образом"
+    "russian": "главным образом",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zo",
     "english": "so",
-    "russian": "вот так"
+    "russian": "вот так",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "al",
     "english": "all",
-    "russian": "все"
+    "russian": "все",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gevangenis",
     "english": "jail",
-    "russian": "тюрьма"
+    "russian": "тюрьма",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vliegveld",
     "english": "airport",
-    "russian": "аэропорт"
+    "russian": "аэропорт",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "buurt",
     "english": "neighborhood",
-    "russian": "окрестности"
+    "russian": "окрестности",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "buiten",
     "english": "outside",
-    "russian": "на открытом воздухе"
+    "russian": "на открытом воздухе",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "binnen",
     "english": "within",
-    "russian": "в"
+    "russian": "в",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoek",
     "english": "corner",
-    "russian": "угол"
+    "russian": "угол",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "windmolen",
     "english": "windmill",
-    "russian": "ветряная мельница"
+    "russian": "ветряная мельница",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "grond",
     "english": "ground",
-    "russian": "земля"
+    "russian": "земля",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boerderij",
     "english": "farm",
-    "russian": "ферма"
+    "russian": "ферма",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ergens",
     "english": "somewhere",
-    "russian": "где-то"
+    "russian": "где-то",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "overal",
     "english": "everywhere",
-    "russian": "везде"
+    "russian": "везде",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bibliotheek",
     "english": "library",
-    "russian": "библиотека"
+    "russian": "библиотека",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bar",
     "english": "bar",
-    "russian": "бар"
+    "russian": "бар",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "plein",
     "english": "square",
-    "russian": "квадрат"
+    "russian": "квадрат",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "havens",
     "english": "ports",
-    "russian": "порты"
+    "russian": "порты",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "landgoed",
     "english": "estate",
-    "russian": "имущество"
+    "russian": "имущество",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "haven",
     "english": "harbor;port",
-    "russian": "гавань"
+    "russian": "гавань",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "plaats",
     "english": "place",
-    "russian": "место"
+    "russian": "место",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "locaties",
     "english": "locations",
-    "russian": "места"
+    "russian": "места",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stations",
     "english": "stations",
-    "russian": "станций"
+    "russian": "станций",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "plaatsen",
     "english": "place",
-    "russian": "место"
+    "russian": "место",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "locatie",
     "english": "location",
-    "russian": "место"
+    "russian": "место",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kantoor",
     "english": "office",
-    "russian": "офис"
+    "russian": "офис",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "station",
     "english": "station",
-    "russian": "станция"
+    "russian": "станция",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "naast",
     "english": "next to",
-    "russian": "рядом с"
+    "russian": "рядом с",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dorp",
     "english": "village",
-    "russian": "деревня"
+    "russian": "деревня",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "plekken",
     "english": "places",
-    "russian": "места"
+    "russian": "места",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "route",
     "english": "route",
-    "russian": "маршрут"
+    "russian": "маршрут",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "plek",
     "english": "place",
-    "russian": "место"
+    "russian": "место",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stad",
     "english": "city",
-    "russian": "город"
+    "russian": "город",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hotel",
     "english": "hotel",
-    "russian": "отель"
+    "russian": "отель",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gebouw",
     "english": "building",
-    "russian": "строительство"
+    "russian": "строительство",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "strand",
     "english": "beach",
-    "russian": "пляж"
+    "russian": "пляж",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gebouwen",
     "english": "buildings",
-    "russian": "здания"
+    "russian": "здания",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stranden",
     "english": "beaches",
-    "russian": "пляжи"
+    "russian": "пляжи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "steden",
     "english": "cities",
-    "russian": "города"
+    "russian": "города",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "leggen",
     "english": "to lay",
-    "russian": "лежать"
+    "russian": "лежать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "legt",
     "english": "explains",
-    "russian": "объясняет"
+    "russian": "объясняет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "leg",
     "english": "lay",
-    "russian": "лежать"
+    "russian": "лежать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zetten",
     "english": "put",
-    "russian": "положить"
+    "russian": "положить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zet",
     "english": "?",
-    "russian": "?"
+    "russian": "?",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "staat",
     "english": "state",
-    "russian": "состояние"
+    "russian": "состояние",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "boom",
     "english": "tree",
-    "russian": "дерево"
+    "russian": "дерево",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "woorden",
     "english": "words",
-    "russian": "слова"
+    "russian": "слова",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "woord",
     "english": "word",
-    "russian": "слово"
+    "russian": "слово",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "staan",
     "english": "stand",
-    "russian": "стоять"
+    "russian": "стоять",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bomen",
     "english": "trees",
-    "russian": "деревья"
+    "russian": "деревья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "liggen",
     "english": "lie",
-    "russian": "лечь"
+    "russian": "лечь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dekens",
     "english": "blankets",
-    "russian": "одеяла"
+    "russian": "одеяла",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "parken",
     "english": "parks",
-    "russian": "парки"
+    "russian": "парки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "deken",
     "english": "blanket",
-    "russian": "одеяло"
+    "russian": "одеяло",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ligt",
     "english": "lies",
-    "russian": "лежит"
+    "russian": "лежит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bal",
     "english": "ball",
-    "russian": "мяч"
+    "russian": "мяч",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "park",
     "english": "park",
-    "russian": "парк"
+    "russian": "парк",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zit",
     "english": "sit",
-    "russian": "сидеть"
+    "russian": "сидеть",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dozen",
     "english": "dozen",
-    "russian": "дюжина"
+    "russian": "дюжина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "mand",
     "english": "month",
-    "russian": "месятц"
+    "russian": "месятц",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "auto",
     "english": "car",
-    "russian": "машина"
+    "russian": "машина",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "doos",
     "english": "box",
-    "russian": "коробка"
+    "russian": "коробка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zitten",
     "english": "to sit",
-    "russian": "садись"
+    "russian": "садись",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zowel",
     "english": "both",
-    "russian": "обе"
+    "russian": "обе",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "doordat",
     "english": "because",
-    "russian": "потому что"
+    "russian": "потому что",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zodra",
     "english": "as soon",
-    "russian": "как только"
+    "russian": "как только",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zodat",
     "english": "so that",
-    "russian": "так что"
+    "russian": "так что",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "omdat",
     "english": "becausae",
-    "russian": "потому что"
+    "russian": "потому что",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoewel",
     "english": "although;however",
-    "russian": "хотя"
+    "russian": "хотя",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "als",
     "english": "as",
-    "russian": "als"
+    "russian": "als",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tenzij",
     "english": "unless",
-    "russian": "если"
+    "russian": "если",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dertien",
     "english": "thirteen",
-    "russian": "тринадцать"
+    "russian": "тринадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zestien",
     "english": "sixteen",
-    "russian": "шестнадцать"
+    "russian": "шестнадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zeventien",
     "english": "seventeen",
-    "russian": "семнадцать"
+    "russian": "семнадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "minder",
     "english": "less",
-    "russian": "меньше"
+    "russian": "меньше",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoeveelheid",
     "english": "quantity",
-    "russian": "количество"
+    "russian": "количество",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tweede",
     "english": "second",
-    "russian": "второй"
+    "russian": "второй",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vierde",
     "english": "fourth",
-    "russian": "четвертый"
+    "russian": "четвертый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "achttien",
     "english": "eighteen",
-    "russian": "восемнадцать"
+    "russian": "восемнадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "negentien",
     "english": "nineteen",
-    "russian": "девятнадцать"
+    "russian": "девятнадцать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "derde",
     "english": "third",
-    "russian": "третий"
+    "russian": "третий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vindt",
     "english": "finds",
-    "russian": "находки"
+    "russian": "находки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zoek",
     "english": "search",
-    "russian": "поиск"
+    "russian": "поиск",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "regent",
     "english": "rains",
-    "russian": "дождь"
+    "russian": "дождь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zoekt",
     "english": "searches",
-    "russian": "ищу;исщет"
+    "russian": "ищу;исщет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "fietst",
     "english": "cycles",
-    "russian": "?"
+    "russian": "?",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "houd",
     "english": "keep;love",
-    "russian": "держать;сохранять;любовь"
+    "russian": "держать;сохранять;любовь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "fiets",
     "english": "bicycle",
-    "russian": "велосипед"
+    "russian": "велосипед",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vinden",
     "english": "find",
-    "russian": "найти"
+    "russian": "найти",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "fietsen",
     "english": "bicycles",
-    "russian": "велосипеды"
+    "russian": "велосипеды",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nodig",
     "english": "required",
-    "russian": "необходимо"
+    "russian": "необходимо",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kopen",
     "english": "to buy",
-    "russian": "купить"
+    "russian": "купить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "neemt",
     "english": "takes",
-    "russian": "брать"
+    "russian": "брать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "weet",
     "english": "know",
-    "russian": "знать"
+    "russian": "знать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "nemen",
     "english": "take",
-    "russian": "возьми"
+    "russian": "возьми",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gebruiken",
     "english": "use",
-    "russian": "использовать"
+    "russian": "использовать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koopt",
     "english": "buys",
-    "russian": "покупать"
+    "russian": "покупать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "koop",
     "english": "buy",
-    "russian": "купить"
+    "russian": "купить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gebruik",
     "english": "use",
-    "russian": "использование"
+    "russian": "использование",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gebruikt",
     "english": "used",
-    "russian": "используется"
+    "russian": "используется",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "denk",
     "english": "think",
-    "russian": "думать"
+    "russian": "думать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "heet",
     "english": "hot",
-    "russian": "горячий"
+    "russian": "горячий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "leer",
     "english": "leather",
-    "russian": "leer"
+    "russian": "leer",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "werkt",
     "english": "works",
-    "russian": "работает"
+    "russian": "работает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "denkt",
     "english": "thinks",
-    "russian": "думает"
+    "russian": "думает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zegt",
     "english": "says",
-    "russian": "говорит"
+    "russian": "говорит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sta",
     "english": "stand",
-    "russian": "стоит"
+    "russian": "стоит",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "helpt",
     "english": "helps",
-    "russian": "помогает"
+    "russian": "помогает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "doen",
     "english": "to do",
-    "russian": "делать"
+    "russian": "делать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "stellen",
     "english": "set",
-    "russian": "набор"
+    "russian": "набор",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "doet",
     "english": "is doing",
-    "russian": "делает"
+    "russian": "делает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "doe",
     "english": "do it",
-    "russian": "сделай это"
+    "russian": "сделай это",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wiens",
     "english": "whose",
-    "russian": "чьи"
+    "russian": "чьи",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tafels",
     "english": "tables",
-    "russian": "столы;таблицы"
+    "russian": "столы;таблицы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tafel",
     "english": "table",
-    "russian": "стол"
+    "russian": "стол",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "krijgen",
     "english": "to get",
-    "russian": "получить"
+    "russian": "получить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "krijgt",
     "english": "gets",
-    "russian": "получает"
+    "russian": "получает",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "krijg",
     "english": "receive",
-    "russian": "получить"
+    "russian": "получить",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tussen",
     "english": "between",
-    "russian": "между"
+    "russian": "между",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wonen",
     "english": "live",
-    "russian": "в прямом эфире"
+    "russian": "в прямом эфире",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "woon",
     "english": "living",
-    "russian": "живой"
+    "russian": "живой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "woont",
     "english": "living",
-    "russian": "woont"
+    "russian": "woont",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kleurrijk",
     "english": "colorful;colourful",
-    "russian": "красочный"
+    "russian": "красочный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "donkere",
     "english": "dark one",
-    "russian": "темный"
+    "russian": "темный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "donker",
     "english": "dark",
-    "russian": "темный"
+    "russian": "темный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vlag",
     "english": "flag",
-    "russian": "флаг"
+    "russian": "флаг",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rood",
     "english": "red",
-    "russian": "красный"
+    "russian": "красный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vlaggen",
     "english": "flags",
-    "russian": "флаги"
+    "russian": "флаги",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "paarse",
     "english": "purple",
-    "russian": "фиолетовый"
+    "russian": "фиолетовый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "paars",
     "english": "purple",
-    "russian": "фиолетовый"
+    "russian": "фиолетовый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kleurrijke",
     "english": "colorful;colourful",
-    "russian": "красочный"
+    "russian": "красочный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rode",
     "english": "red",
-    "russian": "красный"
+    "russian": "красный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "blauw",
     "english": "blue",
-    "russian": "синий"
+    "russian": "синий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bruin",
     "english": "brown",
-    "russian": "коричневый"
+    "russian": "коричневый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "geel",
     "english": "yellow",
-    "russian": "желтый"
+    "russian": "желтый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwarte",
     "english": "black",
-    "russian": "черный"
+    "russian": "черный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bruine",
     "english": "brown",
-    "russian": "коричневый"
+    "russian": "коричневый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "blauwe",
     "english": "blue",
-    "russian": "синий"
+    "russian": "синий",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwart",
     "english": "black",
-    "russian": "черный"
+    "russian": "черный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gele",
     "english": "yellow",
-    "russian": "желтый"
+    "russian": "желтый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kleuren",
     "english": "colour;color",
-    "russian": "цвет"
+    "russian": "цвет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "kleur",
     "english": "colour;color",
-    "russian": "цвет"
+    "russian": "цвет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "grijze",
     "english": "gray;grey",
-    "russian": "серый"
+    "russian": "серый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "groen",
     "english": "green",
-    "russian": "зеленый"
+    "russian": "зеленый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "witte",
     "english": "white",
-    "russian": "белый"
+    "russian": "белый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "wit",
     "english": "white",
-    "russian": "белый"
+    "russian": "белый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "groene",
     "english": "green",
-    "russian": "зеленый"
+    "russian": "зеленый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "grijs",
     "english": "gray;grey",
-    "russian": "серый"
+    "russian": "серый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "huisdier",
     "english": "pet",
-    "russian": "домашнее животное"
+    "russian": "домашнее животное",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vriendin",
     "english": "girlfriend",
-    "russian": "подруга"
+    "russian": "подруга",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "huisdieren",
     "english": "pets",
-    "russian": "домашние животные"
+    "russian": "домашние животные",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vriendinnen",
     "english": "girlfriends",
-    "russian": "подружки"
+    "russian": "подружки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vrienden",
     "english": "friends",
-    "russian": "друзья"
+    "russian": "друзья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vriend",
     "english": "friend",
-    "russian": "друг"
+    "russian": "друг",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "gezin",
     "english": "family",
-    "russian": "семья"
+    "russian": "семья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zoon",
     "english": "son",
-    "russian": "сын"
+    "russian": "сын",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "broer",
     "english": "brother",
-    "russian": "брат"
+    "russian": "брат",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zoons",
     "english": "sons",
-    "russian": "сыновья"
+    "russian": "сыновья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zus",
     "english": "sister",
-    "russian": "сестра"
+    "russian": "сестра",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "broers",
     "english": "",
-    "russian": "братья"
+    "russian": "братья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "baby",
     "english": "baby",
-    "russian": "ребенок"
+    "russian": "ребенок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zussen",
     "english": "",
-    "russian": "сестры"
+    "russian": "сестры",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "baby's",
     "english": "babies",
-    "russian": "baby's"
+    "russian": "baby's",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dochters",
     "english": "daughters",
-    "russian": "дочери"
+    "russian": "дочери",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "dochter",
     "english": "daughter",
-    "russian": "дочь"
+    "russian": "дочь",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "huis",
     "english": "house",
-    "russian": "дом"
+    "russian": "дом",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "vader",
     "english": "father",
-    "russian": "отец"
+    "russian": "отец",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "familie",
     "english": "family",
-    "russian": "семья"
+    "russian": "семья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ouders",
     "english": "parents",
-    "russian": "родители"
+    "russian": "родители",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "moeders",
     "english": "mothers",
-    "russian": "матери"
+    "russian": "матери",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "moeder",
     "english": "mother",
-    "russian": "мать"
+    "russian": "мать",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "enkele",
     "english": "a few",
-    "russian": "несколько"
+    "russian": "несколько",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "iedere",
     "english": "every",
-    "russian": "каждый"
+    "russian": "каждый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "elk",
     "english": "each",
-    "russian": "каждый"
+    "russian": "каждый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "ieder",
     "english": "everyone",
-    "russian": "каждый"
+    "russian": "каждый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "enkel",
     "english": "only",
-    "russian": "просто"
+    "russian": "просто",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "enige",
     "english": "only one",
-    "russian": "только один"
+    "russian": "только один",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "elke",
     "english": "every",
-    "russian": "каждый"
+    "russian": "каждый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "veel",
     "english": "a lot of",
-    "russian": "много"
+    "russian": "много",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "weinige",
     "english": "few",
-    "russian": "немного"
+    "russian": "немного",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "weinig",
     "english": "few",
-    "russian": "несколько"
+    "russian": "несколько",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "naam",
     "english": "name",
-    "russian": "имя"
+    "russian": "имя",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwakke",
     "english": "weak",
-    "russian": "слабый"
+    "russian": "слабый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sterk",
     "english": "strong",
-    "russian": "сильно"
+    "russian": "сильно",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sterke",
     "english": "strong",
-    "russian": "сильный"
+    "russian": "сильный",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "zwak",
     "english": "weak",
-    "russian": "слабый"
+    "russian": "слабый",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slecht",
     "english": "bad",
-    "russian": "плохой"
+    "russian": "плохой",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "licht",
     "english": "light",
-    "russian": "свет;"
+    "russian": "свет;",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "slechte",
     "english": "bad",
-    "russian": "плохие"
+    "russian": "плохие",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "lichte",
     "english": "light",
-    "russian": "свет"
+    "russian": "свет",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hemden",
     "english": "shirts",
-    "russian": "рубашки"
+    "russian": "рубашки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "klompen",
     "english": "clogs",
-    "russian": "-"
+    "russian": "-",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "brillen",
     "english": "glasses",
-    "russian": "очки"
+    "russian": "очки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "bril",
     "english": "glasses",
-    "russian": "очки"
+    "russian": "очки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "tas",
     "english": "bag",
-    "russian": "сумка"
+    "russian": "сумка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hemd",
     "english": "shirt",
-    "russian": "рубашка"
+    "russian": "рубашка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "trui",
     "english": "sweater",
-    "russian": "свитер"
+    "russian": "свитер",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sok",
     "english": "sock",
-    "russian": "носок"
+    "russian": "носок",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rokken",
     "english": "skirts",
-    "russian": "юбки"
+    "russian": "юбки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "truien",
     "english": "sweaters",
-    "russian": "свитеры"
+    "russian": "свитеры",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoed",
     "english": "hat",
-    "russian": "шляпа"
+    "russian": "шляпа",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "rok",
     "english": "skirt",
-    "russian": "юбка"
+    "russian": "юбка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "sokken",
     "english": "socks",
-    "russian": "носки"
+    "russian": "носки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "hoeden",
     "english": "hats",
-    "russian": "шляпы"
+    "russian": "шляпы",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jurk",
     "english": "dress",
-    "russian": "платье"
+    "russian": "платье",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "schoen",
     "english": "shoe",
-    "russian": "башмак"
+    "russian": "башмак",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jas",
     "english": "coat;jacket",
-    "russian": "куртка"
+    "russian": "куртка",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "broeken",
     "english": "pants",
-    "russian": "брюки"
+    "russian": "брюки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "broek",
     "english": "pants",
-    "russian": "брюки"
+    "russian": "брюки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jurken",
     "english": "dresses",
-    "russian": "платья"
+    "russian": "платья",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "jassen",
     "english": "jackets;coats",
-    "russian": "жакеты;куртки"
+    "russian": "жакеты;куртки",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "uil",
     "english": "owl",
-    "russian": "сова"
+    "russian": "сова",
+    "italian": "",
+    "french": ""
   },
   {
     "dutch": "glas",
     "english": "glass",
-    "russian": "стекло"
+    "russian": "стекло",
+    "italian": "",
+    "french": ""
   }
 ]
