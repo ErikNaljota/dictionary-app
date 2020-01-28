@@ -6,6 +6,7 @@ import {Subject} from 'rxjs';
 })
 export class NavigationService {
     public checkVocabulary = new Subject();
+    public shuffleWords = new Subject();
 
     constructor() {
     }

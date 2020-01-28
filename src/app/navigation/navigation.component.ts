@@ -9,6 +9,7 @@ import {VocabularyService} from '../services/vocabulary.service';
 })
 export class NavigationComponent implements OnInit {
     public checkVocabulary = false;
+    public shuffleWords = false;
     public leftColumn: string;
     public rightColumn: string;
     private languagesList: string[] = [];
@@ -26,9 +27,8 @@ export class NavigationComponent implements OnInit {
         this.navigationService.emitVocabularyCheck(this.checkVocabulary);
     }
 
-    a() {
-        this.vocabularyService.checkVocabulary.next(this.checkVocabulary);
-        // this.vocabularyService.rightColumn.next(this.rightColumn);
-        // this.vocabularyService.leftColumn.next(this.leftColumn);
+    wordShuffle() {
+        this.shuffleWords = !this.shuffleWords;
+        this.navigationService.shuffleWords.next(this.shuffleWords);
     }
 }

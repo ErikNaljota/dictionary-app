@@ -6,6 +6,8 @@ import {Word} from './word';
 import {NavigationService} from '../navigation/navigation.service';
 import {VocabularyService} from '../services/vocabulary.service';
 
+import _ from 'lodash';
+
 @Component({
     selector: 'app-dictionary',
     templateUrl: './dictionary.component.html',
@@ -13,12 +15,11 @@ import {VocabularyService} from '../services/vocabulary.service';
 })
 export class DictionaryComponent implements OnInit {
     private words: Word[] = [];
-    private checkVocabulary = true;
-    inputFields: any;
-    private words: Word[] = [];
+    private checkVocabulary: boolean = true;
     private leftColumn: string = 'english';
     private rightColumn: string = 'dutch';
-    private checkVocabulary: boolean = false;
+    private submitted: boolean = false;
+    private shuffle: boolean = false;
 
     constructor(private dictionaryService: DictionaryService,
                 private settingsService: SettingsService,
@@ -27,13 +28,38 @@ export class DictionaryComponent implements OnInit {
     }
 
     ngOnInit(): void {
-        // @ts-ignore
-        Words.default.forEach((obj: Word) => {
-            this.words.push(obj);
-        });
+        this.generateWords();
+
+        // Shuffling the array
+        if (this.shuffle) {
+            this.words = _.shuffle(this.words);
+        }
 
         this.vocabularyService.leftColumn.subscribe(value => this.leftColumn = value.toLocaleLowerCase());
         this.vocabularyService.rightColumn.subscribe(value => this.rightColumn = value.toLocaleLowerCase());
         this.navigationService.checkVocabulary.subscribe((value: boolean) => this.checkVocabulary = value);
+        this.navigationService.shuffleWords.subscribe((val: boolean) => {
+            if (val) {
+                this.words = _.shuffle(this.words);
+            } else {
+                this.generateWords();
+            }
+        });
+    }
+
+    private generateWords(): void {
+        this.words = [];
+        // @ts-ignore
+        Words.default.forEach((obj: Word) => {
+            this.words.push(obj);
+        });
+    }
+
+    private submit(): void {
+        this.submitted = true;
+    }
+
+    hasValue(word: Word) {
+        return !(word[this.leftColumn] === '-' || word[this.rightColumn] === '-');
     }
 }
