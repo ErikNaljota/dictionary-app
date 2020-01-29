@@ -1,0 +1,24 @@
+<div id="voc-sub">
+    <label>Vocabulary check</label>
+    <input type="checkbox" [checked]="checkVocabulary" (change)="vocabularyCheck()">
+    <hr>
+    <label>Shuffle words</label>
+    <input type="checkbox" [checked]="shuffleWords" (change)="wordShuffle()">
+
+    <hr>
+
+    <label>Left column</label>
+    <select (change)="leftColumn = $event.target.value; vocabularyService.leftColumn.next($event.target.value)">
+        <option *ngFor="let language of languagesList">{{language | titlecase}}</option>
+    </select>
+
+    <label>Right column</label>
+    <select (change)="rightColumn = $event.target.value; vocabularyService.rightColumn.next($event.target.value)">
+        <option *ngFor="let language of languagesList">{{language | titlecase}}</option>
+    </select>
+
+    <hr>
+
+    <label>Nr of rows</label>
+    <input type="number" ngModel="{{numberOfRows}}" (input)="updateNrOfRows($event.target.value)">
+</div>

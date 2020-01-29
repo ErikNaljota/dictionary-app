@@ -1,6 +1,8 @@
 import {Component, OnInit} from '@angular/core';
 import {NavigationService} from './navigation.service';
 import {VocabularyService} from '../services/vocabulary.service';
+import {GuardService} from '../guard-service/guard.service';
+import {NavigationGuardService} from '../guard-service/navigation-guard.service';
 
 @Component({
     selector: 'app-navigation',
@@ -8,27 +10,27 @@ import {VocabularyService} from '../services/vocabulary.service';
     styleUrls: ['./navigation.component.scss']
 })
 export class NavigationComponent implements OnInit {
-    public checkVocabulary = false;
-    public shuffleWords = false;
-    public leftColumn: string;
-    public rightColumn: string;
-    private languagesList: string[] = [];
+    private menuItems: string[] = ['home', 'vocabulary', 'assignments'];
 
     constructor(private vocabularyService: VocabularyService,
-                private navigationService: NavigationService) {
-        this.languagesList = vocabularyService.languagesList;
+                private navigationService: NavigationService,
+                private guardService: GuardService,
+                private navigationGuardService: NavigationGuardService) {
     }
 
     ngOnInit() {
     }
 
-    vocabularyCheck() {
-        this.checkVocabulary = !this.checkVocabulary;
-        this.navigationService.emitVocabularyCheck(this.checkVocabulary);
+    navigate(page: string): void {
+        this.navigationService.navigate(page);
     }
 
-    wordShuffle() {
-        this.shuffleWords = !this.shuffleWords;
-        this.navigationService.shuffleWords.next(this.shuffleWords);
+    correctPage(): boolean {
+        const path = this.guardService.path;
+        const navPath = this.navigationGuardService.navPath;
+        console.log('path = nav', path === navPath, 'path = ""', path === '');
+        console.log(path, navPath);
+        // return (path === navPath) && path.length > 0;
+      return true;
     }
 }

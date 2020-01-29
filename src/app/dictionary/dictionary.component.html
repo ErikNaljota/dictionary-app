@@ -5,18 +5,31 @@
     </div>
 
     <form (submit)="submit()">
-        <ng-container *ngFor="let word of words | slice: 0: 10">
+        <ng-container *ngFor="let word of words | slice: 0: numberOfRows">
             <div class="table-row" *ngIf="hasValue(word)">
-                <div class="table-row-column"><p>{{word[leftColumn]}}</p></div>
-                <div class="table-row-column" #referenceTest1>
-                    <p *ngIf="!checkVocabulary">{{word[rightColumn]}}</p>
+                <div class="table-row-column"><p>{{word[leftColumn][0]}}</p></div>
+                <div class="table-row-column" #temp>
+                    <p *ngIf="!checkVocabulary">{{word[rightColumn][0]}}</p>
                     <input type="text"
-                           #referenceTest
+                           #inputField
                            *ngIf="checkVocabulary"
-                           [ngClass]="(submitted && !(word[rightColumn] === referenceTest.value)) ? 'incorrect' : ''"/>
+                           [ngClass]="(submitted && !(word[rightColumn].includes(inputField.value))) ? 'incorrect' : ''"/>
+                    <div class="correct-word disable-select"
+                         *ngIf="submitted &&
+                         checkVocabulary &&
+                         !(word[rightColumn].includes(temp.querySelector('input').value))">
+                        <div class="correct-word-icon">
+                            <p class="correct-word-icon-p">i</p>
+                            <div class="correct-word-box">
+                                <p *ngFor="let foo of word[rightColumn]; let last = last">{{foo}}{{!(last) ? "," : ""}}</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </ng-container>
-        <input type="submit">
+        <div class="row submit-button" *ngIf="checkVocabulary">
+            <input type="submit">
+        </div>
     </form>
 </div>
