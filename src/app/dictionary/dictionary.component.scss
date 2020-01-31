@@ -10,11 +10,17 @@
         width: 100%;
         display: flex;
         flex-direction: row;
+        background-image: linear-gradient(
+                    315deg,
+                    #00cffc,
+                    #00ffbb
+    );
 
         &-name {
             font-weight: bold;
             width: 50%;
             padding: 10px;
+
         }
     }
 
@@ -39,19 +45,82 @@
             }
         }
 
-        &:nth-child(odd) {
+        &:nth-child(even) {
             background-color: #e9e9e9;
         }
 
-        &:last-child {
+        //&:last-child {
+        //    border-bottom-left-radius: 5px;
+        //    border-bottom-right-radius: 5px;
+        //    margin-bottom: 5px;
+        //}
+
+        .last-child {
             border-bottom-left-radius: 5px;
             border-bottom-right-radius: 5px;
+            margin-bottom: 5px;
+            margin-top: 500px;
         }
 
-        .table-row-column {
+        &-column {
             margin-left: 5px;
             padding: 5px;
             width: 50%;
+
+            .correct-word {
+                position: absolute;
+                margin-top: -18px;
+                margin-left: 345px;
+
+                &-icon {
+                    background-color: #c83d00;
+                    border-radius: 50%;
+                    margin-top: -2px;
+                    width: 15px;
+                    height: 15px;
+                    color: white;
+
+                    cursor: pointer;
+
+                    &-p {
+                        font-size: 12px;
+                        margin-left: 6px;
+                    }
+
+                    .correct-word-box {
+                        display: none;
+
+                        p {
+                            display: none;
+                        }
+                    }
+
+                    &:hover {
+                        .correct-word-box {
+                            display: block;
+                            margin-top: -22px;
+                            margin-left: 25px;
+                            min-height: 25px;
+                            min-width: 110px;
+                            width: fit-content;
+                            color: white;
+                            border-radius: 5px;
+                            background-color: #c83d00;
+                            border-width: 0 0 0 5px;
+
+                            p {
+                                display: inline;
+                                margin-left: 5px;
+                                margin-right: 5px;
+
+                            }
+                        }
+                    }
+
+                }
+
+
+            }
         }
     }
 
@@ -60,8 +129,11 @@
         color: lightgrey;
     }
 
-    input[type=submit] {
-        float: right;
+    .submit-button {
         margin-top: 20px;
+
+        input [type=submit] {
+            float: right;
+        }
     }
 }

@@ -16,10 +16,11 @@ import _ from 'lodash';
 export class DictionaryComponent implements OnInit {
     private words: Word[] = [];
     private checkVocabulary: boolean = true;
-    private leftColumn: string = 'english';
+    private leftColumn: string = 'dutch';
     private rightColumn: string = 'dutch';
     private submitted: boolean = false;
     private shuffle: boolean = false;
+    private numberOfRows: number = 15;
 
     constructor(private dictionaryService: DictionaryService,
                 private settingsService: SettingsService,
@@ -37,7 +38,8 @@ export class DictionaryComponent implements OnInit {
 
         this.vocabularyService.leftColumn.subscribe(value => this.leftColumn = value.toLocaleLowerCase());
         this.vocabularyService.rightColumn.subscribe(value => this.rightColumn = value.toLocaleLowerCase());
-        this.navigationService.checkVocabulary.subscribe((value: boolean) => this.checkVocabulary = value);
+        this.navigationService.checkVocabulary.subscribe((value: boolean) => {this.checkVocabulary = value; this.submitted = !value;});
+        this.navigationService.numberOfRows.subscribe((value: number) => this.numberOfRows = value);
         this.navigationService.shuffleWords.subscribe((val: boolean) => {
             if (val) {
                 this.words = _.shuffle(this.words);
@@ -59,7 +61,7 @@ export class DictionaryComponent implements OnInit {
         this.submitted = true;
     }
 
-    hasValue(word: Word) {
-        return !(word[this.leftColumn] === '-' || word[this.rightColumn] === '-');
+    private hasValue(word: Word) {
+        return !(word[this.leftColumn].includes('-') || word[this.rightColumn].includes('-'));
     }
 }

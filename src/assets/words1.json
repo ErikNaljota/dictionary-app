@@ -1,0 +1,44 @@
+﻿[
+  {
+    "dutch": ["iedereen"],
+    "english": ["everyone"],
+    "russian": ["все"],
+      "italian": ["tutti"],
+      "french": ["tout le monde"]
+      },
+      {
+        "dutch": ["je"],
+        "english": ["you"],
+        "russian": ["ты"],
+        "italian": [""],
+        "french": [""]
+      },
+      {
+        "dutch": ["misschien"],
+        "english": ["perhaps"],
+        "russian": ["может быть"],
+        "italian": [""],
+        "french": [""]
+      },
+      {
+        "dutch": ["ben"],
+        "english": ["am"],
+        "russian": ["-"],
+        "italian": [""],
+        "french": [""]
+      },
+      {
+        "dutch": ["hoort"],
+        "english": ["hears"],
+        "russian": ["слышит"],
+        "italian": [""],
+        "french": [""]
+      },
+      {
+        "dutch": ["zijn"],
+        "english": ["to be", "are"],
+        "russian": ["его"],
+        "italian": [""],
+        "french": [""]
+      }
+    ]

@@ -1,26 +1,19 @@
 <div id="navigation">
-  <div class="logo">
-    <img src="/assets/lion.svg" alt="Logo" />
-  </div>
-  <div class="menu disable-select">
-    <label>Vocabulary check</label>
-    <input type="checkbox" [checked]="checkVocabulary" (change)="vocabularyCheck()">
-      <hr>
-    <label>Shuffle words</label>
-    <input type="checkbox" [checked]="shuffleWords" (change)="wordShuffle()">
+    <div class="logo" (click)="navigate('home')">
+        <img src="/assets/logo-lion.svg" alt="Logo"/>
+    </div>
 
-    <hr>
+    <div class="menu disable-select">
+        <div class="menu-items">
+            <div class="item" *ngFor="let item of menuItems" (click)="navigate(item)" [ngClass]="(selected(item)) ? 'selected' : ''">
+                <p>{{item | titlecase}}</p>
+            </div>
+        </div>
 
-    <label>Left column</label>
-    <select (change)="leftColumn = $event.target.value; vocabularyService.leftColumn.next($event.target.value)">
-      <option *ngFor="let language of languagesList">{{language | titlecase}}</option>
-    </select>
+        <hr class="divider">
 
-    <label>Right column</label>
-    <select (change)="rightColumn = $event.target.value; vocabularyService.rightColumn.next($event.target.value)">
-      <option *ngFor="let language of languagesList">{{language | titlecase}}</option>
-    </select>
-
-    <hr>
-  </div>
+        <div class="router-outlet" *ngIf="correctPage()">
+            <router-outlet name="subs"></router-outlet>
+        </div>
+    </div>
 </div>
