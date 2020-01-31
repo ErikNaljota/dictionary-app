@@ -36,3 +36,15 @@ input[type=submit] {
         background-color: #00b8eb;
     }
 }
+
+.neumorphism-shadow {
+    //background-color: rgba(238, 238, 238, 0.2);
+
+    background: linear-gradient(145deg, #ffffff, #d6d6d6);
+
+    border-radius: 12px;
+
+    box-shadow:
+        -6px -6px 26px 0 rgba(255, 255, 255, 0.83),
+        6px 6px 16px 0 rgba(217, 210, 200, 0.5);
+}
