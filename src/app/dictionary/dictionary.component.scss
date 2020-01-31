@@ -1,20 +1,17 @@
+@import "../../colors";
+
 #dictionary {
     .header-name:first-child, .table-row-column:first-child {
         border-right: 1px solid #b3b3b3;
     }
 
     .header {
-        background-color: lightgrey;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
         width: 100%;
         display: flex;
         flex-direction: row;
-        background-image: linear-gradient(
-                    315deg,
-                    #00cffc,
-                    #00ffbb
-    );
+        background-color: $green;
 
         &-name {
             font-weight: bold;
@@ -47,19 +44,6 @@
 
         &:nth-child(even) {
             background-color: #e9e9e9;
-        }
-
-        //&:last-child {
-        //    border-bottom-left-radius: 5px;
-        //    border-bottom-right-radius: 5px;
-        //    margin-bottom: 5px;
-        //}
-
-        .last-child {
-            border-bottom-left-radius: 5px;
-            border-bottom-right-radius: 5px;
-            margin-bottom: 5px;
-            margin-top: 500px;
         }
 
         &-column {

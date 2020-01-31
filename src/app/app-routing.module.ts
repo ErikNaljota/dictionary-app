@@ -14,7 +14,7 @@ const routes: Routes = [
     {path: 'assignments', component: AssignmentsComponent, canActivate: [GuardService]},
     {path: 'editor', component: EditorComponent, canActivate: [GuardService]},
     {path: 'settings', component: SettingsComponent, canActivate: [GuardService]},
-    {path: '**', component: DictionaryComponent, canActivate: [GuardService]}
+    {path: 'vocabulary', component: DictionaryComponent, canActivate: [GuardService]}
 ];
 
 @NgModule({

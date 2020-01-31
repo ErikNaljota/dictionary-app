@@ -12,7 +12,7 @@ const navRoutes: Routes = [
     // {path: 'home', component: VocabularySubComponent, outlet: 'subs', canActivate: [NavigationGuardService]},
     {path: 'vocabulary', component: VocabularySubComponent, outlet: 'subs', canActivate: [NavigationGuardService]},
     {path: 'assignments', component: AssignmentsSubComponent, outlet: 'subs', canActivate: [NavigationGuardService]},
-    {path: '**', component: VocabularySubComponent, outlet: 'subs', canActivate: [NavigationGuardService]}
+    // {path: '**', component: VocabularySubComponent, outlet: 'subs', canActivate: [NavigationGuardService]}
 ];
 
 @NgModule({

@@ -2,7 +2,6 @@ import {Component, OnInit} from '@angular/core';
 import {NavigationService} from './navigation.service';
 import {VocabularyService} from '../services/vocabulary.service';
 import {GuardService} from '../guard-service/guard.service';
-import {NavigationGuardService} from '../guard-service/navigation-guard.service';
 
 @Component({
     selector: 'app-navigation',
@@ -11,15 +10,15 @@ import {NavigationGuardService} from '../guard-service/navigation-guard.service'
 })
 export class NavigationComponent implements OnInit {
     private menuItems: string[] = ['home', 'vocabulary', 'assignments'];
-    private selectedItem: string = 'home';
+    private selectedItem: string = '';
 
     constructor(private vocabularyService: VocabularyService,
                 private navigationService: NavigationService,
-                private guardService: GuardService,
-                private navigationGuardService: NavigationGuardService) {
+                private guardService: GuardService) {
     }
 
     ngOnInit() {
+        this.guardService.currentPathSource.subscribe(path => this.setMenuItem(path));
     }
 
     navigate(page: string): void {
@@ -27,10 +26,21 @@ export class NavigationComponent implements OnInit {
         this.navigationService.navigate(page);
     }
 
+    setMenuItem(path: string): void {
+        for (const menuItem of this.menuItems) {
+            if (path.includes(menuItem)) {
+                this.selectedItem = menuItem;
+                break;
+            } else if (path === '') {
+                this.selectedItem = 'home';
+            } else {
+                this.selectedItem = '';
+            }
+        }
+    }
+
     correctPage(): boolean {
-        const path = this.guardService.path;
-        const navPath = this.navigationGuardService.navPath;
-        return (path === navPath) && path.length > 0;
+        return true;
     }
 
     selected(item: string) {

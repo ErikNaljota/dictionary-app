@@ -28,12 +28,12 @@ input[type=submit] {
     font-size: 100%;
     padding: 5px;
     color: white;
-    background-color: #00cffc;
+    background-color: $green;
     border-radius: 5px;
 
     &:hover {
         cursor: pointer;
-        background-color: #00b8eb;
+        background-color: #58A353;
     }
 }
 
