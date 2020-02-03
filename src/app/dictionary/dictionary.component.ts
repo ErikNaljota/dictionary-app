@@ -15,7 +15,7 @@ import _ from 'lodash';
 })
 export class DictionaryComponent implements OnInit {
     private words: Word[] = [];
-    private checkVocabulary: boolean = true;
+    private checkVocabulary: boolean = false;
     private leftColumn: string = 'dutch';
     private rightColumn: string = 'dutch';
     private submitted: boolean = false;

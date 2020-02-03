@@ -3,7 +3,7 @@
 #assignments {
     .language {
         width: 200px;
-        height: 100px;
+        height: 50px;
 
         background-color: rgba(180, 180, 180, 0.2);
 
@@ -18,6 +18,11 @@
 
         &:hover {
             cursor: pointer;
+        }
+
+        p {
+            padding: 10px;
+            margin: auto;
         }
     }
 }
