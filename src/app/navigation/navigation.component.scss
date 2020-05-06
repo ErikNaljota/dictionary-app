@@ -1,0 +1,62 @@
+@import "../../colors";
+
+#navigation {
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    background-color: $dark-grey;
+
+    .logo {
+        color: #00b8eb;
+        height: 150px;
+        border-bottom: solid 1px darkgrey;
+        cursor: pointer;
+
+        img {
+            width: 170px;
+            margin-top: 5px;
+            margin-left: 40px;
+        }
+    }
+
+    .menu {
+        &-items {
+            .item {
+                width: 100%;
+                margin-bottom: 5px;
+                height: fit-content;
+
+                &:hover {
+                    background-color: $light-grey;
+                    cursor: pointer;
+                }
+
+                p {
+                    vertical-align: center;
+                    text-align: center;
+                    padding: 10px;
+                    margin-left: -15px;
+                    color: #ffffff;
+                }
+
+                &.selected {
+                    background-color: $green;
+                }
+            }
+        }
+
+        .divider {
+            width: 75%;
+            height: 2px;
+            background-color: #565656;
+            border: none;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .router-outlet {
+            padding: 10px;
+            color: white;
+        }
+    }
+}

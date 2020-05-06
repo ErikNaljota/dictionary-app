@@ -1,0 +1,23 @@
+<div id="assignments">
+    <div style="width: 20px; height: 20px; content:'X'; background-color: red; cursor: pointer; margin-bottom: 10px; float: right" (click)="reset()" *ngIf="!selectLanguage">X</div>
+    <p style="margin-bottom: 10px;">{{breadCrumbs}}</p>
+    <div class="row">
+        <div *ngIf="selectLanguage">
+            <div class="language disable-select" *ngFor="let language of languages"
+                 (click)="selectLanguageAssignments()"><p>{{language}}</p></div>
+        </div>
+        <div *ngIf="selectAssignment" (click)="doAssignment()">
+            <div class="language" *ngFor="let assignment of assignments">
+                <p>{{assignment}}</p>
+            </div>
+        </div>
+
+        <div *ngIf="assignmentPage">
+            <h1>Formal and informal language</h1>
+            <p>Bla bla bla</p>
+            <p>Bla bla bla</p>
+            <p>Bla bla bla</p>
+            <p>Bla bla bla</p>
+        </div>
+    </div>
+</div>

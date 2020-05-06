@@ -1,0 +1,50 @@
+<style>
+    /* Tooltip container */
+    .tooltip {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+    }
+
+    /* Tooltip text */
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 200px;
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        text-align: center;
+        padding: 5px 0;
+        border-radius: 6px;
+
+        /* Position the tooltip text - see examples below! */
+        position: absolute;
+        z-index: 1;
+    }
+
+    /* Show the tooltip text when you mouse over the tooltip container */
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
+</style>
+
+<div id="dictionary">
+    <div class="header">
+        <div class="header-name"><p>Name</p></div>
+        <div class="header-name"><p>Description</p></div>
+        <div class="header-name"><p>Date</p></div>
+        <div class="header-name"><p></p></div>
+    </div>
+
+    <ng-container *ngFor="let word of files">
+        <div class="table-row">
+            <div class="table-row-column"><p>{{word[0]}}</p></div>
+            <div class="table-row-column" [class.tooltip]="word[1].length > 24">
+                <p *ngIf="word[1].length < 25">{{word[1]}}</p>
+                <p *ngIf="word[1].length > 24">{{word[1].substr(0, 24)}}...</p>
+                    <span class="tooltiptext">{{word[1]}}</span>
+            </div>
+            <div class="table-row-column"><p>{{word[2]}}</p></div>
+            <div class="table-row-column" style="cursor:pointer;"><p>Download</p></div>
+        </div>
+    </ng-container>
+</div>

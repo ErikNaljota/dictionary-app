@@ -1,11 +1,35 @@
 <div id="dictionary">
-  <div class="header">
-    <div class="header-name"><p>Word ({{sourceLanguage | titlecase}})</p></div>
-    <div class="header-name"><p>Translation</p></div>
-  </div>
+    <div class="header">
+        <div class="header-name"><p>{{leftColumn | titlecase}}</p></div>
+        <div class="header-name"><p>{{rightColumn | titlecase}}</p></div>
+    </div>
 
-  <div class="table-row" *ngFor="let word of dictionary">
-    <div class="table-row-column"><p>{{word.get(sourceLanguage)}}</p></div>
-    <div class="table-row-column"><p>{{word.get(translationLanguage)}}</p></div>
-  </div>
+    <form (submit)="submit()">
+        <ng-container *ngFor="let word of words | slice: 0: numberOfRows; let last = last">
+            <div class="table-row" *ngIf="hasValue(word)" [ngClass]="(last) ? 'last-child' : ''">
+                <div class="table-row-column"><p>{{word[leftColumn][0]}}</p></div>
+                <div class="table-row-column" #temp>
+                    <p *ngIf="!checkVocabulary">{{word[rightColumn][0]}}</p>
+                    <input type="text"
+                           #inputField
+                           *ngIf="checkVocabulary"
+                           [ngClass]="(submitted && !(word[rightColumn].includes(inputField.value))) ? 'incorrect' : ''"/>
+                    <div class="correct-word disable-select"
+                         *ngIf="submitted &&
+                         checkVocabulary &&
+                         !(word[rightColumn].includes(temp.querySelector('input').value))">
+                        <div class="correct-word-icon">
+                            <p class="correct-word-icon-p">i</p>
+                            <div class="correct-word-box">
+                                <p *ngFor="let foo of word[rightColumn]; let last = last">{{foo}}{{!(last) ? "," : ""}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ng-container>
+        <div class="row submit-button" *ngIf="checkVocabulary">
+            <input type="submit">
+        </div>
+    </form>
 </div>

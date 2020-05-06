@@ -1,24 +1,26 @@
 import {Injectable} from '@angular/core';
+import {HttpClient} from '@angular/common/http';
+import {Dictionary} from '../../assets/dictionary';
 
 @Injectable({
   providedIn: 'root'
 })
 export class DictionaryService {
-  private dictionary: Map<string, string>[] = [];
+  private dictionary: Dictionary[];
 
-  constructor() {
+  constructor(private http: HttpClient) {
     this.generateDictionary();
   }
 
   private generateDictionary() {
-
+    this.http.get<Dictionary[]>('assets/words.json').subscribe(response => this.dictionary = response);
   }
 
   public refreshDictionary() {
     this.generateDictionary();
   }
 
-  public getDictionary(): Map<string, string>[] {
+  public getDictionary(): Dictionary[] {
     return this.dictionary;
   }
 }

@@ -1,0 +1,19 @@
+<div id="navigation">
+    <div class="logo" (click)="navigate('home')">
+        <img src="/assets/logo-lion.svg" alt="Logo"/>
+    </div>
+
+    <div class="menu disable-select">
+        <div class="menu-items">
+            <div class="item" *ngFor="let item of menuItems" (click)="navigate(item)" [ngClass]="(selected(item)) ? 'selected' : ''">
+                <p>{{item | titlecase}}</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="router-outlet" *ngIf="correctPage()">
+            <router-outlet name="subs"></router-outlet>
+        </div>
+    </div>
+</div>

@@ -1,6 +1,17 @@
+.background {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: #efeeee;
+
+}
+
 #dictionary-app {
-  position: absolute;
-  background-color: #f2f2f2;
-  width: 100%;
-  height: 100%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    .body {
+        margin-left: 250px;
+    }
 }
